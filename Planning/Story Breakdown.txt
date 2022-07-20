@@ -51,7 +51,7 @@ Characters
 
 Suspects and Allies
 
-- Thea
+- Diesel
     Alligator bodyguard for Acai
     Hardheaded meat lover who is deathly loyal to Acai
     Worked as a construction worker at the town hall to gether intel for Acai
@@ -188,7 +188,7 @@ CH 6
 - They then found out that Acai is the owner of the coffee manufacturer and heads back to the complex to ask further questions
 - Vermont encountering Acai worries for tammy's safetuy and asks her to stay 
 - She reluctantly agrees and Vermont goes to the complex
-- There he gets attacked by Thea and pinned down
+- There he gets attacked by Diesel and pinned down
 - There Acai comes from teh corner and interogates Vermont saying that he's interrupting his operations
 
 CH 7
@@ -220,13 +220,13 @@ END
 
 Alternative ENDING 1
 CH4 - Condition: If Vermont doesnt press Hedgehog 
-- Thea catches up to the two and breaks up the fight and pins Acai down on the ground
-- Thea then tells the town that Acai used the pills to suffocate the mayor
+- Diesel catches up to the two and breaks up the fight and pins Acai down on the ground
+- Diesel then tells the town that Acai used the pills to suffocate the mayor
 - The towns folks didnt believe him until they threw it in the fountain revealing its effects
 - Hedgehog vouches for them And tells that their owner was behind those operations
 - HH also explains why there has been missing people these days and the suffering must end now.
-- The mayor's wife made the declaration that all 5 of them will be arrested (Ollen, HH, Thea, Acai and Phara)
-- Later on The mayor's wife arrived at the garden with Thea, Ollen and Hedgehog.
+- The mayor's wife made the declaration that all 5 of them will be arrested (Ollen, HH, Diesel, Acai and Phara)
+- Later on The mayor's wife arrived at the garden with Diesel, Ollen and Hedgehog.
 - She declares that they have been released from prison but under the condition that they serve community service
 - Vermont agrees and they all help her with her business
 END

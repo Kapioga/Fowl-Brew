@@ -1,0 +1,32 @@
+MAIN CLUES
+- Footprint = From the scnene of the crime
+- Coffee grinds = Found outside the room where the mayor was murdered
+- Coffee samples = Gotten from teh cafe
+- Nail file = Item from the salon
+- Smelly bag = Found at the pier
+- Dried cement wit ha scale on it = Found at the salon
+- Fiber pills = Found after talking to Acai
+- Cease and Decist order = FOund in the mayors office (torn)
+- Medical reports = Found outside mayor's office
+
+MAIN AREAS OF CONTACT
+- Vermont's Garden
+- Vermont's Hut
+- Police Station
+- Mayor's office
+- Mayor's Office Parking Lot
+- Construction site
+- The cafe*
+- The pier*
+- The salon*
+- The Condos*
+- City Streets wth fountain*
+- Secluded farm *
+- Cafe counter*
+- Salon front*
+- The Pier's Dock*
+-Forest view Dock
+- Deep Forest
+- Forest view town
+
+Player Interactions and Dialogue
