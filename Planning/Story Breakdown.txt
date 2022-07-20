@@ -16,11 +16,9 @@ Summary2: Private Investigator Vermont Sully, just shy of retirement decides to 
     to the town once again and bring the anonymous killer to justice. 
 
 SPOLIER (ENDING)
-    The mayor was killed by ACAI a member of the cult that Ashten started. They dream of the perfect society and thought that the mayor was the bringer of deathe
-    Ollen, a friend of the murder is furious as the extremism has been pushed too far and they ended up fighting. Inspector and Tammy breaks up the fight and 
-    ACAI. Ollen tries to hand themselves over to take responsibility but Tammy vouches for them, then they receive a threat about the next attack and the story ends.
-
-threatens
+    The mayor was killed by Orion a member of the cult that Ashten started. They dream of the perfect society and thought that the mayor was the bringer of deathe
+    Kale, a friend of the murder is furious as the extremism has been pushed too far and they ended up fighting. Inspector and Tammy breaks up the fight and 
+    Orion. Kale tries to hand themselves over to take responsibility but Tammy vouches for them, then they receive a threat about the next attack and the story ends.
 
 Characters
 
@@ -44,7 +42,7 @@ Characters
     Wife of the mayor
     A seamstress with a passion for the arts but hated isolation of being in politics
     Mild mannered, polite, anxious
-- Ollen
+- Kale
     The youngest of the three siblings group
     Calm, polite and loves coffee (addicted)
     Incredibly smart and oddly the most popular sibling of the bunch
@@ -52,33 +50,33 @@ Characters
 Suspects and Allies
 
 - Diesel
-    Alligator bodyguard for Acai
-    Hardheaded meat lover who is deathly loyal to Acai
-    Worked as a construction worker at the town hall to gether intel for Acai
+    Alligator bodyguard for Orion
+    Hardheaded meat lover who is deathly loyal to Orion
+    Worked as a construction worker at the town hall to gether intel for Orion
     Later discovered their passion in construction
-- Jasper
+- Cyrus
     Local parrot and barista at Paige's cafe
-    Jasper is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
-    Tenant at Acai's Condos
-- Acai
+    Cyrus is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
+    Tenant at Orion's Condos
+- Orion
     A large rooster who's vegetarian and works as a landlord for an apartment complex
     The local charmer and is known as as the great landlord
     Member of the Wish Bone Cult
 - Phara
-    Crab taht works as receptionist and head of the salon
+    Crab that works as receptionist and head of the salon
     Easily upset, defensive and hard headed business woman who values her staff
 - Pudding
     Hedgdehog that works at the nail salon by the pier
     Quiet and keeps to themselves but is the #1 technician in the store and among avians
-- Tyrone
-    Mole
+
 - Paige
-    Owner of the Fox Trot cafe and JAsper's roommate
+    Owner of the Fox Trot cafe and Cyrus's roommate
     Paige is very nonchalant but loves Japser to death, theyve know n each otehr since college
-    Tenant at Acai's condo and friend with Talon
-- Talon 
+    Tenant at Orion's condo and friend with Monty
+
+- Monty
     Local fisherwoman who works at the pier
-    Talon is a hard headed hammerhead shark with a love of caffeine
+    Monty is a hard headed hammerhead shark with a love of caffeine
 
 Area theme 
 Warm relaxing tropical island with a slightly modern yet rural theme.
@@ -90,6 +88,7 @@ MAIN AREAS OF CONTACT
 - Mayor's office
 - Mayor's Office Parking Lot
 - Construction site
+- View of Town square
 - The cafe*
 - The pier*
 - The salon*
@@ -106,16 +105,16 @@ MAIN AREAS OF CONTACT
 Illustrations
 - Mayor's body on the desk
 - Vermont's garden, picture of the mayor and their family
-- Acai gets beaten up by fountain
+- Orion gets beaten up by fountain
 - Vermont and player getting their nails done
-- Acai's coffee plant
+- Orion's coffee plant
 - Mayor's denial
 
 
 End Illustrations
 - Ending 1: A worried look on Vermont with the flyers and a blimp
 - Ending 2: The three of them are in Vermont's Garden playing with the hose
-- Ending 3: Acai looking onward peacefully as the children play on the streets by the mayor's hall
+- Ending 3: Orion looking onward peacefully as the children play on the streets by the mayor's hall
 
 MAIN CLUES
 - Footprint = From the scnene of the crime
@@ -124,7 +123,7 @@ MAIN CLUES
 - Nail file = Item from the salon
 - Smelly bag = Found at the pier
 - Dried cement wit ha scale on it = Found at the salon
-- Fiber pills = Found after talking to Acai
+- Fiber pills = Found after talking to Orion
 - Cease and Decist order = FOund in the mayors office (torn)
 - Medical reports = Found outside mayor's office
 
@@ -140,10 +139,10 @@ CH 2
 - With this evidence, investigator goes out to compare the print
 - Taking a break they head to the cafe
 - There they see a chatty parrot who had similar feet to the foot print
-- Tammy uses their charm and learns that they know Ollen due to them stopping by often for coffee ( a new international brand)
+- Tammy uses their charm and learns that they know Kale due to them stopping by often for coffee ( a new international brand)
 
 CH 3
-- They interrogate him and find out that Ollen has said a few things regarding the coffee and the mayor
+- They interrogate him and find out that Kale has said a few things regarding the coffee and the mayor
 - The prints from them also confirmed that their claws are different from the cement print
 - They noted the claws were trimmed so they stop at the salon. 
 - One leads to a cafe hosted by a few foxes who mentions a hedgehog that trims bird claws
@@ -157,19 +156,19 @@ CH 3
 
 CH 4
 - Vermont gets upset for the first time in a while and continues the investigation
-- Tammy heads down to the pier and meets Talon
-- Talon comforts them and asks them whats wrong, they bond for being misunderstood
-- Talon tells Tammy of some weird people she met on her night shift
+- Tammy heads down to the pier and meets Monty
+- Monty comforts them and asks them whats wrong, they bond for being misunderstood
+- Monty tells Tammy of some weird people she met on her night shift
 - People carrying bags of some kind with a weird smell
 - Tammy notices that the smell they described is similar to Phara's the receptionist 
-- She thanks Talon and runs back
+- She thanks Monty and runs back
 
 CH 5
 - Meanwhile Vermont wonders through town sulking and overhears a conversation down the street
-- Jasper is talking to Acai the landlord about rent 
-- Acai being understanding accepts and lets them off
-- Acai notices Vermont and asks them to leave
-- Vermont asks a question with Acai and they DO NOT get along
+- Cyrus is talking to Orion the landlord about rent 
+- Orion being understanding accepts and lets them off
+- Orion notices Vermont and asks them to leave
+- Vermont asks a question with Orion and they DO NOT get along
 - They both storms off and investigates
 - Vermont passes the salon and notices Tammy convincing Pudding to see Phara
 - Vermont assists Tammy and apologises to both of them
@@ -177,41 +176,41 @@ CH 5
 - The investigators wait outside and Tammy spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
 - Vermont desperate to catch her dives into the water and loses their breathe
-- They were then saved by Talon
+- They were then saved by Monty
 
 CH 6
-- Tammy explains the situation but Vermont follows up with Acai
-- Talon explains that he's a rich landlord from overseas who came to the town to buy property
-- Talon gets suspicious and thanks Talon for their helping
-- Vermont gets a hunt and goes back to the cafee to ask the Jasper more questions, reassuring them that they werent in trouble
+- Tammy explains the situation but Vermont follows up with Orion
+- Monty explains that he's a rich landlord from overseas who came to the town to buy property
+- Monty gets suspicious and thanks Monty for their helping
+- Vermont gets a hunt and goes back to the cafee to ask the Cyrus more questions, reassuring them that they werent in trouble
 - They then found out that the coffee they imported were becoming the next big hit, especially among predators
-- They then found out that Acai is the owner of the coffee manufacturer and heads back to the complex to ask further questions
-- Vermont encountering Acai worries for tammy's safetuy and asks her to stay 
+- They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
+- Vermont encountering Orion worries for tammy's safetuy and asks her to stay 
 - She reluctantly agrees and Vermont goes to the complex
 - There he gets attacked by Diesel and pinned down
-- There Acai comes from teh corner and interogates Vermont saying that he's interrupting his operations
+- There Orion comes from teh corner and interogates Vermont saying that he's interrupting his operations
 
 CH 7
 - Vermont tells them about the coffee and Phara and gets knocked unconscious
 - Vermont wakes up in the middle of a cult with a knife surrounding them
-- Tammy met with Ollen who has been following the cult for a while and overhears the conversation (ENDING CHOICE 2)
-- Acai standing over them ready to slice up Vermont.
-- They find out that Acai had been using the salon to find predators in the village
+- Tammy met with Kale who has been following the cult for a while and overhears the conversation (ENDING CHOICE 2)
+- Orionstanding over them ready to slice up Vermont.
+- They find out that Orionhad been using the salon to find predators in the village
     To the Wishbone cult they believe that predators are the reason the worrld is correct and must be killed. Their boddies are then exported
     by Phara to the coffee plant nearby to be used as fertilizer for their coffee. To the same effect, the fermented meat is also a jhallucinogenic due to
     the yeast found in the fermented compost. 
 - The coffee got popular but word got out to the mayor about this newly popular product taking over the town
-- Fearing gentrification, the bill was about to be signed to ban coffee from Acai's plant
-- Acai fearing his business met with the mayor in person discretely and offered him wealth
-- The mayor denies and Acai forces a pellet down teh mayors throat suffocating him until he dies then flees the scene
-- Ollen in frustration tackles Acai
-- Acai shouts for their bodyguard to attack them but had enough and stands up for themselves
-- Acai belittles them and threatens that he's kill their family and Ollen beats him up (ENDING 2 in effect)
-- Acai losing the battle escapes with Ollen chasing right after him
-- In the middle of town, Acai fights Ollen and takes a fiber pill (Ending 1 in effect)
-- Ollen then pushes him into the fountain to drown him but the moisture swlls the fiber pill killing Acai instantly
-- The town seeing this is shocked that he had killed Acai and is arrested for murder.
-- Tammy and Vermont bails him out but Ollen refuses to go home
+- Fearing gentrification, the bill was about to be signed to ban coffee from Orion's plant
+- Orion fearing his business met with the mayor in person discretely and offered him wealth
+- The mayor denies and Orion forces a pellet down teh mayors throat suffocating him until he dies then flees the scene
+- Kale in frustration tackles Orion
+- Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
+- Orion belittles them and threatens that he's kill their family and Kale beats him up (ENDING 2 in effect)
+- Orion losing the battle escapes with Kale chasing right after him
+- In the middle of town, Orion fights Kale and takes a fiber pill (Ending 1 in effect)
+- Kale then pushes him into the fountain to drown him but the moisture swlls the fiber pill killing Orion instantly
+- The town seeing this is shocked that he had killed Orion and is arrested for murder.
+- Tammy and Vermont bails him out but Kale refuses to go home
 - They have no where to go and they dont think they can return to their old life
 - The crew then recruits them to their team as community service 
 - Everything went well until flyers started falling from the sky
@@ -220,23 +219,23 @@ END
 
 Alternative ENDING 1
 CH4 - Condition: If Vermont doesnt press Hedgehog 
-- Diesel catches up to the two and breaks up the fight and pins Acai down on the ground
-- Diesel then tells the town that Acai used the pills to suffocate the mayor
+- Diesel catches up to the two and breaks up the fight and pins Orion down on the ground
+- Diesel then tells the town that Orion used the pills to suffocate the mayor
 - The towns folks didnt believe him until they threw it in the fountain revealing its effects
 - Hedgehog vouches for them And tells that their owner was behind those operations
 - HH also explains why there has been missing people these days and the suffering must end now.
-- The mayor's wife made the declaration that all 5 of them will be arrested (Ollen, HH, Diesel, Acai and Phara)
-- Later on The mayor's wife arrived at the garden with Diesel, Ollen and Hedgehog.
+- The mayor's wife made the declaration that all 5 of them will be arrested (Kale, HH, Diesel, Orion and Phara)
+- Later on The mayor's wife arrived at the garden with Diesel, Kale and Hedgehog.
 - She declares that they have been released from prison but under the condition that they serve community service
 - Vermont agrees and they all help her with her business
 END
 
 Alternative ENDING 2
 CH4 - Condition: If the player chooses to make Tammy go back to the mayors office
-- Acai shouts for their bodyguard to attack them but had enough and stands up for themselves
-- Acai belittles them and threatens that he's kill their family and Ollen beats him up
-- The mayor's wife appears with Tammy and Talon
+- Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
+- Orion belittles them and threatens that he's kill their family and Kale beats him up
+- The mayor's wife appears with Tammy and Monty
 - The mayor's wife orders that the coffee factory be banned from all know territory on the island and locked away in confinement 
-- Acai retaliates but is then countered by their bodyguard.
-- Acai is arrested and Acai's bodygruard is then appointed as head construction worker of the town
+- Orion retaliates but is then countered by their bodyguard.
+- Orion is arrested and Orion's bodygruard is then appointed as head construction worker of the town
 END
