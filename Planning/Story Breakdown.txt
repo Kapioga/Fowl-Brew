@@ -22,12 +22,6 @@ SPOLIER (ENDING)
 
 Characters
 
-[The player will play as Tammy or from her perspective]
-[- Tammy
-    A House finch with a passion for true crime and lover of pastries
-    Master interogater, independent and naive
-    Tammy believes in second chances and is the only person able to see through Vermont's facade]
-
 - Inspector Vermont
     A hard eye investigator with over 5 years experience working in the field
     Ex-botanist and sleuth
@@ -105,6 +99,7 @@ MAIN AREAS OF CONTACT
 Illustrations
 - Mayor's body on the desk
 - Vermont's garden, picture of the mayor and their family
+- Side by side picture of teh cement and Cyrus's feet
 - Orion gets beaten up by fountain
 - Vermont and player getting their nails done
 - Orion's coffee plant
@@ -140,11 +135,11 @@ CH 2
 - Taking a break they head to the cafe
 - There they see a chatty parrot who had similar feet to the foot print
 - Tammy uses their charm and learns that they know Kale due to them stopping by often for coffee ( a new international brand)
-
-CH 3
 - They interrogate him and find out that Kale has said a few things regarding the coffee and the mayor
 - The prints from them also confirmed that their claws are different from the cement print
 - They noted the claws were trimmed so they stop at the salon. 
+
+CH 3
 - One leads to a cafe hosted by a few foxes who mentions a hedgehog that trims bird claws
 - They stop at the salon and asks Phara 
 - Phara immediately gets upset because they felt that Vermont was suspicious
