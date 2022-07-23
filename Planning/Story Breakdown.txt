@@ -22,20 +22,22 @@ SPOLIER (ENDING)
 
 Characters
 
-- Inspector Vermont
-    A hard eye investigator with over 5 years experience working in the field
+- Inspector Vermont (Deer) - Insp: Sly Cooper
+    A hard eye investigator with over 50 years experience working in the field
     Ex-botanist and sleuth
-    Smart, sly and unassuming
+    Smart, sly and unassuming, endearing
 
-- Mayor Hoppin 
+- Mayor Hoppin - General from Hellsing 
     The mayor of the small town of Patch
     A married man who had a wife and 3 kids
-    Hard headed, family man who struggled with emotional connection
+    Hard headed, family man who inherited the position
     Had a dream of becoming a pilot
+
 -Madam Hoppin 
     Wife of the mayor
     A seamstress with a passion for the arts but hated isolation of being in politics
     Mild mannered, polite, anxious
+
 - Kale
     The youngest of the three siblings group
     Calm, polite and loves coffee (addicted)
@@ -46,34 +48,43 @@ Suspects and Allies
 - Diesel
     Alligator bodyguard for Orion
     Hardheaded meat lover who is deathly loyal to Orion
-    Worked as a construction worker at the town hall to gether intel for Orion
+    Worked as a construction worker at the town hall to gather intel for Orion
     Later discovered their passion in construction
+
 - Cyrus
     Local parrot and barista at Paige's cafe
     Cyrus is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
     Tenant at Orion's Condos
+
 - Orion
     A large rooster who's vegetarian and works as a landlord for an apartment complex
     The local charmer and is known as as the great landlord
+    Owner of a large coffee factory franchise
     Member of the Wish Bone Cult
+
 - Phara
     Crab that works as receptionist and head of the salon
     Easily upset, defensive and hard headed business woman who values her staff
+    Paranoid and a little schizophrenic
+
 - Pudding
-    Hedgdehog that works at the nail salon by the pier
+    A Hedgdehog that works at the nail salon by the pier
     Quiet and keeps to themselves but is the #1 technician in the store and among avians
 
 - Paige
-    Owner of the Fox Trot cafe and Cyrus's roommate
-    Paige is very nonchalant but loves Japser to death, theyve know n each otehr since college
-    Tenant at Orion's condo and friend with Monty
+    Owner of the Wild Roost cafe and Cyrus's roommate
+    Paige is very nonchalant but loves Japser to death, theyve know n each other since college
+    Tenant at Orion's condo and friends with Monty
 
 - Monty
     Local fisherwoman who works at the pier
     Monty is a hard headed hammerhead shark with a love of caffeine
+    A man of no nonsense and values their peace more than anything. 
+    Old friend of Hoppins and possibly the nicest man on the island
 
 Area theme 
 Warm relaxing tropical island with a slightly modern yet rural theme.
+A real run down area that shows its age and desperation for new things
 
 MAIN AREAS OF CONTACT
 - Vermont's Garden
@@ -81,9 +92,8 @@ MAIN AREAS OF CONTACT
 - Police Station
 - Mayor's office
 - Mayor's Office Parking Lot
-- Construction site
 - View of Town square
-- The cafe*
+- The cafe* (Wild Roost)
 - The pier*
 - The salon*
 - The Condos*
@@ -104,6 +114,11 @@ Illustrations
 - Vermont and player getting their nails done
 - Orion's coffee plant
 - Mayor's denial
+- Vermont gets pinned by Diesel
+- Kale Tackles Orion
+- Orion holding Fiber pill
+- Vermont holding Wishbone Society Flier
+- Diesel holding up fiber pills
 
 End Illustrations
 - Ending 1: A worried look on Vermont with the flyers and a blimp
@@ -130,6 +145,7 @@ CH 1
 CH 2
 - The only evidence lies in the wet concrete print shaped like a bird foot print
 - He speaks to close family and guards
+- They have a conversation with Diesel [Ending 2 trigger]
 - With this evidence, investigator goes out to compare the print
 - Taking a break they head to the cafe
 - There they see a chatty parrot who had similar feet to the foot print
@@ -139,17 +155,16 @@ CH 2
 - They noted the claws were trimmed so they stop at the salon. 
 
 CH 3
-- One leads to a cafe hosted by a few foxes who mentions a hedgehog that trims bird claws
-- They stop at the salon and asks Phara 
+- They ask for Phara 
 - Phara immediately gets upset because they felt that Vermont was suspicious
 - Tammy defuses the situation by requesting a pedicure
 - Phara accepts and Pudding works on Vermonts nails
 - Vermont heres from Pudding that one of their clients had a cement incident during construction and had to chisel of cement off their foot 
 - Vermont asks her questions but pushes her too far to the point of an anxiety attack and Vermont was kicked from the store (Alternative Ending 1)
-- Tammy gets upset and leaves the group
 
 CH 4
-- Vermont gets upset for the first time in a while and continues the investigation
+- Vermont gets frustrated for the first time in a while and continues the investigation
+- The two seperate to give Vermont some room
 - Tammy heads down to the pier and meets Monty
 - Monty comforts them and asks them whats wrong, they bond for being misunderstood
 - Monty tells Tammy of some weird people she met on her night shift
@@ -169,35 +184,33 @@ CH 5
 - Pudding says that she went out to lunch and will be back soon
 - The investigators wait outside and Tammy spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
-- Vermont desperate to catch her dives into the water and loses their breathe
+- Vermont desperate to catch her dives into the water and loses their breath
 - They were then saved by Monty
 
 CH 6
 - Tammy explains the situation but Vermont follows up with Orion
 - Monty explains that he's a rich landlord from overseas who came to the town to buy property
 - Monty gets suspicious and thanks Monty for their helping
-- Vermont gets a hunt and goes back to the cafee to ask the Cyrus more questions, reassuring them that they werent in trouble
+- Vermont gets a hunch and goes back to the cafee to ask the Cyrus more questions, reassuring them that they werent in trouble
 - They then found out that the coffee they imported were becoming the next big hit, especially among predators
 - They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
-- Vermont encountering Orion worries for tammy's safetuy and asks her to stay 
-- She reluctantly agrees and Vermont goes to the complex
+- Vermont encountering Orion and confronts him
 - There he gets attacked by Diesel and pinned down
 - There Orion comes from teh corner and interogates Vermont saying that he's interrupting his operations
 
 CH 7
 - Vermont tells them about the coffee and Phara and gets knocked unconscious
 - Vermont wakes up in the middle of a cult with a knife surrounding them
-- Tammy met with Kale who has been following the cult for a while and overhears the conversation (ENDING CHOICE 2)
-- Orionstanding over them ready to slice up Vermont.
+- Orion standing over them ready to slice up Vermont.
 - They find out that Orionhad been using the salon to find predators in the village
     To the Wishbone cult they believe that predators are the reason the worrld is correct and must be killed. Their boddies are then exported
     by Phara to the coffee plant nearby to be used as fertilizer for their coffee. To the same effect, the fermented meat is also a jhallucinogenic due to
     the yeast found in the fermented compost. 
-- The coffee got popular but word got out to the mayor about this newly popular product taking over the town
-- Fearing gentrification, the bill was about to be signed to ban coffee from Orion's plant
-- Orion fearing his business met with the mayor in person discretely and offered him wealth
-- The mayor denies and Orion forces a pellet down teh mayors throat suffocating him until he dies then flees the scene
-- Kale in frustration tackles Orion
+    The coffee got popular but word got out to the mayor about this newly popular product taking over the town
+    Fearing gentrification, the bill was about to be signed to ban coffee from Orion's plant
+    Orion fearing his business met with the mayor in person discretely and offered him wealth
+    The mayor denies and Orion forces a pellet down teh mayors throat suffocating him until he dies then flees the scene
+- Kale tackles Orion and he drops the knife 
 - Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
 - Orion belittles them and threatens that he's kill their family and Kale beats him up (ENDING 2 in effect)
 - Orion losing the battle escapes with Kale chasing right after him
