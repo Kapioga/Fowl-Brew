@@ -26,6 +26,7 @@ Characters
     A hard eye investigator with over 50 years experience working in the field
     Ex-botanist and sleuth
     Smart, sly and unassuming, endearing
+    Hates the smell of coffee
 
 - Mayor Hoppin - General from Hellsing 
     The mayor of the small town of Patch
@@ -119,6 +120,7 @@ Illustrations
 - Orion holding Fiber pill
 - Vermont holding Wishbone Society Flier
 - Diesel holding up fiber pills
+- Cafe orders
 
 End Illustrations
 - Ending 1: A worried look on Vermont with the flyers and a blimp
@@ -128,7 +130,7 @@ End Illustrations
 MAIN CLUES
 - Case File [ CH1 ]
 - Footprint = From the scnene of the crime
-- Coffee grinds = Found outside the room where the mayor was murdered
+- Coffee grinds = Found outside the room where the mayor was murdered [ CH 2]
 - Coffee samples = Gotten from teh cafe
 - Nail file = Item from the salon
 - Smelly bag = Found at the pier
