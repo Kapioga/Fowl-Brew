@@ -9,3 +9,7 @@ July 22,2022
 
 July 30, 2022
 - Work on adding "Events" to segment lists
+
+July 31m 2022
+- Using Superscirpt for further scipting due to ease of use.
+- MS Word file will be trabsfered to Scratch Pile 
