@@ -6,3 +6,6 @@ July 22,2022
 - Adjust the story line to not include predators vs prey dynamic
 - Shorted n story a bit 
 - Work on concept artwork for characters and their backgrounds
+
+July 30, 2022
+- Work on adding "Events" to segment lists
