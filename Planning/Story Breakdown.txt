@@ -8,17 +8,17 @@ Notes:
 Summary 1: In the quiet island of Birchwood, creatures of all shapes and sizes live together in harmony until one night...the loving 
     Mayor of Birchwood was mysteriously murdered. In a panic, the mayor's wife hired a retired private detective to investigate the case.
     What happened to the mayor? Who in their right mind would want to disrupt the tranquility of this peaceful town? Let's see if Private I,
-    Inspector Vermont and her assistant Tammy can solve this case!
+    Inspector Vermont and her assistant Player can solve this case!
 
 Summary2: Private Investigator Vermont Sully, just shy of retirement decides to return their home of Birchwood. By a stroke of bad luck, that same night
-    The town's mayor had been killed leaving the town in disarray. In desperation, the Mayor's wife hires Vermont and her trust partner Tammy to 
+    The town's mayor had been killed leaving the town in disarray. In desperation, the Mayor's wife hires Vermont and her trust partner Player to 
     investigate this case. With only a concrete footprint found near the scene of the crime, our investigators must do whatever it takes to bring peace 
     to the town once again and bring the anonymous killer to justice. 
 
 SPOLIER (ENDING)
     The mayor was killed by Orion a member of the cult that Ashten started. They dream of the perfect society and thought that the mayor was the bringer of deathe
-    Kale, a friend of the murder is furious as the extremism has been pushed too far and they ended up fighting. Inspector and Tammy breaks up the fight and 
-    Orion. Kale tries to hand themselves over to take responsibility but Tammy vouches for them, then they receive a threat about the next attack and the story ends.
+    Kale, a friend of the murder is furious as the extremism has been pushed too far and they ended up fighting. Inspector and Player breaks up the fight and 
+    Orion. Kale tries to hand themselves over to take responsibility but Player vouches for them, then they receive a threat about the next attack and the story ends.
 
 Characters
 
@@ -153,7 +153,7 @@ CH 2
 - With this evidence, investigator goes out to compare the print
 - Taking a break they head to the cafe
 - There they see a chatty parrot who had similar feet to the foot print
-- Tammy uses their charm and learns that they know Kale due to them stopping by often for coffee ( a new international brand)
+- Player uses their charm and learns that they know Kale due to them stopping by often for coffee ( a new international brand)
 - They interrogate him and find out that Kale has said a few things regarding the coffee and the mayor
 - The prints from them also confirmed that their claws are different from the cement print
 - They noted the claws were trimmed so they stop at the salon. 
@@ -161,19 +161,18 @@ CH 2
 CH 3
 - They ask for Phara 
 - Phara immediately gets upset because they felt that Vermont was suspicious
-- Tammy defuses the situation by requesting a pedicure
+- Player defuses the situation by requesting a pedicure
 - Phara accepts and Pudding works on Vermonts nails
 - Vermont heres from Pudding that one of their clients had a cement incident during construction and had to chisel of cement off their foot 
 - Vermont asks her questions but pushes her too far to the point of an anxiety attack and Vermont was kicked from the store (Alternative Ending 1)
 
 CH 4
-- Vermont gets frustrated for the first time in a while and continues the investigation
 - The two seperate to give Vermont some room
-- Tammy heads down to the pier and meets Monty
+- Player heads down to the pier and meets Monty
 - Monty comforts them and asks them whats wrong, they bond for being misunderstood
-- Monty tells Tammy of some weird people she met on her night shift
+- Monty tells Player of some weird people she met on her night shift
 - People carrying bags of some kind with a weird smell
-- Tammy notices that the smell they described is similar to Phara's the receptionist 
+- Player notices that the smell they described is similar to Phara's the receptionist 
 - She thanks Monty and runs back
 
 CH 5
@@ -183,16 +182,16 @@ CH 5
 - Orion notices Vermont and asks them to leave
 - Vermont asks a question with Orion and they DO NOT get along
 - They both storms off and investigates
-- Vermont passes the salon and notices Tammy convincing Pudding to see Phara
-- Vermont assists Tammy and apologises to both of them
+- Vermont passes the salon and notices Player convincing Pudding to see Phara
+- Vermont assists Player and apologises to both of them
 - Pudding says that she went out to lunch and will be back soon
-- The investigators wait outside and Tammy spots the weird smell again and sees Phara
+- The investigators wait outside and Player spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
 - Vermont desperate to catch her dives into the water and loses their breath
 - They were then saved by Monty
 
 CH 6
-- Tammy explains the situation but Vermont follows up with Orion
+- Player explains the situation but Vermont follows up with Orion
 - Monty explains that he's a rich landlord from overseas who came to the town to buy property
 - Monty gets suspicious and thanks Monty for their helping
 - Vermont gets a hunch and goes back to the cafee to ask the Cyrus more questions, reassuring them that they werent in trouble
@@ -221,7 +220,7 @@ CH 7
 - In the middle of town, Orion fights Kale and takes a fiber pill (Ending 1 in effect)
 - Kale then pushes him into the fountain to drown him but the moisture swlls the fiber pill killing Orion instantly
 - The town seeing this is shocked that he had killed Orion and is arrested for murder.
-- Tammy and Vermont bails him out but Kale refuses to go home
+- Player and Vermont bails him out but Kale refuses to go home
 - They have no where to go and they dont think they can return to their old life
 - The crew then recruits them to their team as community service 
 - Everything went well until flyers started falling from the sky
@@ -242,10 +241,10 @@ CH4 - Condition: If Vermont doesnt press Hedgehog
 END
 
 Alternative ENDING 2
-CH4 - Condition: If the player chooses to make Tammy go back to the mayors office
+CH4 - Condition: If the player chooses to make Player go back to the mayors office
 - Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
 - Orion belittles them and threatens that he's kill their family and Kale beats him up
-- The mayor's wife appears with Tammy and Monty
+- The mayor's wife appears with Player and Monty
 - The mayor's wife orders that the coffee factory be banned from all know territory on the island and locked away in confinement 
 - Orion retaliates but is then countered by their bodyguard.
 - Orion is arrested and Orion's bodygruard is then appointed as head construction worker of the town
