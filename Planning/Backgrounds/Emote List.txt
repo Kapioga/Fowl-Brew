@@ -50,17 +50,28 @@ Suspects and Allies
     Riled up
     
 - Phara
-    Crab that works as receptionist and head of the salon
-    Easily upset, defensive and hard headed business woman who values her staff
+    Grumpy
+    Accepting
+    Scared
+    Threatened
+    Calm
+
 - Pudding
-    Hedgdehog that works at the nail salon by the pier
-    Quiet and keeps to themselves but is the #1 technician in the store and among avians
+    shy
+    Upset
+    Angry
+    Anxious
 
 - Paige
-    Owner of the Fox Trot cafe and Cyrus's roommate
-    Paige is very nonchalant but loves Japser to death, theyve know n each otehr since college
-    Tenant at Orion's condo and friend with Monty
+    CalmCollected
+    Busy
+    Ordering
+    Frustrated
 
 - Monty
-    Local fisherwoman who works at the pier
-    Monty is a hard headed hammerhead shark with a love of caffeine
+    Toothy Smile
+    sad
+    Question
+    Angry
+    suspicious
+    
