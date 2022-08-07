@@ -22,7 +22,7 @@ SPOLIER (ENDING)
 
 Characters
 
-- Inspector Vermont (Deer) - Insp: Sly Cooper
+- Inspector Vermont (Badger) - Insp: Sly Cooper
     A hard eye investigator with over 50 years experience working in the field
     Ex-botanist and sleuth
     Smart, sly and unassuming, endearing
@@ -83,6 +83,7 @@ Suspects and Allies
     Monty is a hard headed hammerhead shark with a love of caffeine
     A man of no nonsense and values their peace more than anything. 
     Old friend of Hoppins and possibly the nicest man on the island
+    Used to date Madam Hoppins years ago 
 
 Area theme 
 Warm relaxing tropical island with a slightly modern yet rural theme.
@@ -123,6 +124,7 @@ Illustrations
 - Diesel holding up fiber pills
 - Cafe orders
 - Pudding pointing in the itinerary with "Orion" on it
+- Orion pins player to the wall
 
 End Illustrations
 - Ending 1: A worried look on Vermont with the flyers and a blimp
@@ -166,25 +168,35 @@ CH 3
 - Phara accepts and Pudding works on Vermonts nails
 - Vermont heres from Pudding that one of their clients had a cement incident during construction and had to chisel of cement off their foot 
 (Need to see Kale or Maam Hoppins)
+
 CH 4
+- Night time arrives and the two went back to Vermont's house to rest 
+- The players wakes up to vermont unable to sleep
+- The two go out for a walk and meet by the pier
+- Vermont meets Monty, the pier local
 - The two seperate to give Vermont some room
-- Player heads down to the pier and meets Monty
-- Monty comforts them and asks them whats wrong, they bond for being misunderstood
+- They bond over old age and wanting peace despite their lives
+- Monty offers to be friends with Vermont and accepts
+- They later find out that some weird people have been appearing in their shift at night
+- Monty is worried that things might be changing but isnt entirely ready for what might happen to the island. 
 - Monty tells Player of some weird people she met on her night shift
+- Monty then pleads not to get them involved because they may be lead as a primary suspect due to being a shark
 - People carrying bags of some kind with a weird smell
-- Player notices that the smell they described is similar to Phara's the receptionist 
-- She thanks Monty and runs back
+- Vermont notices that the smell they described is similar to Phara's the receptionist 
+- They thank Monty and runs back
 
 CH 5
-- Meanwhile Vermont wonders through town sulking and overhears a conversation down the street
+-Meanwhile Player is back at the house
+- Player decides to go for a walk and wandered to Cyrus talking to Orion by a building
 - Cyrus is talking to Orion the landlord about rent 
 - Orion being understanding accepts and lets them off
-- Orion notices Vermont and asks them to leave
-- Vermont asks a question with Orion and they DO NOT get along
-- They both storms off and investigates
-- Vermont passes the salon and notices Player convincing Pudding to see Phara
-- Vermont assists Player and apologises to both of them
-- Pudding says that she went out to lunch and will be back soon
+- Orion notices Player and asks them to leave
+- Player has the option to persist or not, but Orion is not having it
+- Orion pins player to the wall and threatens them
+- You manage to escape but bump into Vermont who lost their trail
+- Vermont is concerned and asks if your ok
+- The two still follow where the trail was and heads back to the salon
+- Vermont asks why Pudding is awake this late and she makes an escuse that she opens early.
 - The investigators wait outside and Player spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
 - Vermont desperate to catch her dives into the water and loses their breath
@@ -194,7 +206,8 @@ CH 6
 - Player explains the situation but Vermont follows up with Orion
 - Monty explains that he's a rich landlord from overseas who came to the town to buy property
 - Monty gets suspicious and thanks Monty for their helping
-- Vermont gets a hunch and goes back to the cafee to ask the Cyrus more questions, reassuring them that they werent in trouble
+- Vermont gets pissed for him attempting to hurt you
+- Vermont gets a hunch and goes back to the cafe to ask the Cyrus more questions, reassuring them that they werent in trouble
 - They then found out that the coffee they imported were becoming the next big hit, especially among predators
 - They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
 - Vermont encountering Orion and confronts him
@@ -205,9 +218,9 @@ CH 7
 - Vermont tells them about the coffee and Phara and gets knocked unconscious
 - Vermont wakes up in the middle of a cult with a knife surrounding them
 - Orion standing over them ready to slice up Vermont.
-- They find out that Orionhad been using the salon to find predators in the village
-    To the Wishbone cult they believe that predators are the reason the worrld is correct and must be killed. Their boddies are then exported
-    by Phara to the coffee plant nearby to be used as fertilizer for their coffee. To the same effect, the fermented meat is also a jhallucinogenic due to
+- They find out that Orion had been using the salon to find predators in the village
+    To the Wishbone cult they believe that predators are the reason the world is corrupt and must be killed. Their boddies are then exported
+    by Phara to the coffee plant nearby to be used as fertilizer for their coffee. To the same effect, the fermented meat is also a hallucinogenic due to
     the yeast found in the fermented compost. 
     The coffee got popular but word got out to the mayor about this newly popular product taking over the town
     Fearing gentrification, the bill was about to be signed to ban coffee from Orion's plant
@@ -228,14 +241,14 @@ CH 7
 END
 
 Alternative ENDING 1
-CH4 - Condition: If Vermont doesnt press Hedgehog 
+CH4 - Condition: If Vermont doesnt press Pudding
 - Diesel catches up to the two and breaks up the fight and pins Orion down on the ground
 - Diesel then tells the town that Orion used the pills to suffocate the mayor
 - The towns folks didnt believe him until they threw it in the fountain revealing its effects
-- Hedgehog vouches for them And tells that their owner was behind those operations
-- HH also explains why there has been missing people these days and the suffering must end now.
+- Pudding vouches for them And tells that their owner was behind those operations
+- Pudding also explains why there has been missing people these days and the suffering must end now.
 - The mayor's wife made the declaration that all 5 of them will be arrested (Kale, HH, Diesel, Orion and Phara)
-- Later on The mayor's wife arrived at the garden with Diesel, Kale and Hedgehog.
+- Later on The mayor's wife arrived at the garden with Diesel, Kale and Pudding.
 - She declares that they have been released from prison but under the condition that they serve community service
 - Vermont agrees and they all help her with her business
 END
