@@ -1,10 +1,16 @@
 Fowl Call
 
-Genre: Mystery, Adventure
+Genre: Mystery, Adventure, Murder-Mystery
 Inspiration: Ace attorney | My Gym Partner's A Monkey | Avian attorney | Monster Prom
 
-Notes:
+Location: An a secluded island
+Goal: To solve the case of Mayor Hoppins death
+Motivation: One final case to bring peace to their new home
+Conflict: Underground operations and connecting muder cases
+Summary: TBA
 
+Notes:
+TEST SUMMARIES
 Summary 1: In the quiet island of Birchwood, creatures of all shapes and sizes live together in harmony until one night...the loving 
     Mayor of Birchwood was mysteriously murdered. In a panic, the mayor's wife hired a retired private detective to investigate the case.
     What happened to the mayor? Who in their right mind would want to disrupt the tranquility of this peaceful town? Let's see if Private I,
@@ -27,6 +33,7 @@ Characters
     Ex-botanist and sleuth
     Smart, sly and unassuming, endearing
     Hates the smell of coffee
+    Has PTSD from working in the force
 
 - Mayor Hoppin - General from Hellsing 
     The mayor of the small town of Patch
@@ -167,35 +174,37 @@ CH 3
 - Player defuses the situation by requesting a pedicure
 - Phara accepts and Pudding works on Vermonts nails
 - Vermont heres from Pudding that one of their clients had a cement incident during construction and had to chisel of cement off their foot 
-(Need to see Kale or Maam Hoppins)
+- They go to see Mdm Hoppins, she knows the residents 
 
 CH 4
-- Night time arrives and the two went back to Vermont's house to rest 
-- The players wakes up to vermont unable to sleep
-- The two go out for a walk and meet by the pier
-- Vermont meets Monty, the pier local
-- The two seperate to give Vermont some room
-- They bond over old age and wanting peace despite their lives
+- They meet with madam and Kale in the office
+- They had reached out that they need to know who Orion is
+- Madam explained that its against the privacy to disclose that info
+- The layer and Vermont later hears about this person from Kale (caffeinated) and that he runs the apartments down south
+- Player observes the weird sporatic behaviors with them. 
+- Meanwhile Player is back at the house
+- Player decides to go for a walk and wandered to Cyrus talking to Orion by a building
+- Cyrus is talking to Orion the landlord about rent 
+- Orion being understanding accepts and lets them off
+- Orion notices Player and asks them to leave ,threatening them with a knife
+- Vermont persists and gets interrupted by a flashing light
+- They turn around and Orion disappears. 
+- It was Monty, the local neighbourhood watch
+- Monty brings them to the pier to discuss the unrest the two have been causing
+- Vermont in the heat of the moment gets frustrated. All they wanted 
+    Was a peaceful retirement and theyre not having it. Plus theyre being ostracized. 
+
+CH 5
+- Monty comforts Vermont and they bond over old age and treatments and wanting peace despite their lives
 - Monty offers to be friends with Vermont and accepts
-- They later find out that some weird people have been appearing in their shift at night
+- They later find out that some weird people have been appearing in their shift at night so they took up neighbourhood watch
 - Monty is worried that things might be changing but isnt entirely ready for what might happen to the island. 
 - Monty tells Player of some weird people she met on her night shift
 - Monty then pleads not to get them involved because they may be lead as a primary suspect due to being a shark
 - People carrying bags of some kind with a weird smell
 - Vermont notices that the smell they described is similar to Phara's the receptionist 
 - They thank Monty and runs back
-
-CH 5
--Meanwhile Player is back at the house
-- Player decides to go for a walk and wandered to Cyrus talking to Orion by a building
-- Cyrus is talking to Orion the landlord about rent 
-- Orion being understanding accepts and lets them off
-- Orion notices Player and asks them to leave
-- Player has the option to persist or not, but Orion is not having it
-- Orion pins player to the wall and threatens them
-- You manage to escape but bump into Vermont who lost their trail
-- Vermont is concerned and asks if your ok
-- The two still follow where the trail was and heads back to the salon
+- The trail leads back to teh salon and notices Pudding there 
 - Vermont asks why Pudding is awake this late and she makes an escuse that she opens early.
 - The investigators wait outside and Player spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
@@ -206,8 +215,8 @@ CH 6
 - Player explains the situation but Vermont follows up with Orion
 - Monty explains that he's a rich landlord from overseas who came to the town to buy property
 - Monty gets suspicious and thanks Monty for their helping
-- Vermont gets pissed for him attempting to hurt you
 - Vermont gets a hunch and goes back to the cafe to ask the Cyrus more questions, reassuring them that they werent in trouble
+- They then met with a hooded figure (Kale) who slid the detective some documents
 - They then found out that the coffee they imported were becoming the next big hit, especially among predators
 - They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
 - Vermont encountering Orion and confronts him
@@ -240,6 +249,7 @@ CH 7
 - Notifying the town of the Wish Bone Society returning
 END
 
+--Thinking about this further
 Alternative ENDING 1
 CH4 - Condition: If Vermont doesnt press Pudding
 - Diesel catches up to the two and breaks up the fight and pins Orion down on the ground
