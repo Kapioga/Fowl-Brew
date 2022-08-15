@@ -63,7 +63,7 @@ Suspects and Allies
     Anxious
 
 - Paige
-    CalmCollected
+    Calm,Collected
     Busy
     Ordering
     Frustrated
