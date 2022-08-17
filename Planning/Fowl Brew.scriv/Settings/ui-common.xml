@@ -8,7 +8,7 @@
             <ItemID>A9B87E0C-7BC0-4D30-9A1F-739EC7881ACA</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>6EDE4176-9248-4FAE-A168-69FF63FD4043</ItemID>
+            <ItemID>83F78C19-BA4E-4265-BB7E-D3B31CD1B551</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -59,13 +59,16 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
-                <CurrentViewMode>Corkboard</CurrentViewMode>
-                <SelectionAffects>None</SelectionAffects>
+                <CurrentViewMode>Single</CurrentViewMode>
+                <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>6EDE4176-9248-4FAE-A168-69FF63FD4043</ItemID>
+                    <ItemID>83F78C19-BA4E-4265-BB7E-D3B31CD1B551</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="0">
+                <NavigationHistory CurrentIndex="3">
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">6EDE4176-9248-4FAE-A168-69FF63FD4043</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">A9B87E0C-7BC0-4D30-9A1F-739EC7881ACA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">6EDE4176-9248-4FAE-A168-69FF63FD4043</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">83F78C19-BA4E-4265-BB7E-D3B31CD1B551</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>

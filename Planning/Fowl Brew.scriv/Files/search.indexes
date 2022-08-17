@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="01EAB795-AD1A-40FC-AE5E-8DA83F47B7D4">
+            <Title>Page</Title>
+            <Synopsis> Paige - Sheep (has varying wool styles)
+    Owner of the Wild Roost cafe and Cyrus's roommate
+    Paige is very nonchalant but loves Japser to death, theyve know n each other since college
+    Tenant at Orion's condo and friends with Monty</Synopsis>
+        </Document>
+        <Document ID="14AFD39A-E497-4491-9932-77A4A4D854D2">
+            <Title>Mayor Hoppin</Title>
+            <Synopsis>Mayor Hoppin - General from Hellsing 
+    The mayor of the small town of Patch
+    A married man who had a wife and 3 kids
+    Hard headed, family man who inherited the position
+    Had a dream of becoming a pilot</Synopsis>
+        </Document>
+        <Document ID="19CCF9FD-4C1A-4882-8440-D94FA62C2588">
+            <Title>Vermont</Title>
+            <Synopsis>Inspector Vermont (Badger) - Insp: Sly Cooper
+    A hard eye investigator with over 50 years experience working in the field
+    Ex-botanist and sleuth
+    Smart, sly and unassuming, endearing
+    Hates the smell of coffee
+    Has PTSD from working in the force</Synopsis>
+        </Document>
+        <Document ID="2122CE33-79EA-481A-BF92-84C04F6E49CC">
+            <Title>Cyrus</Title>
+            <Synopsis> Cyrus - Toucan
+    Local parrot and barista at Paige's cafe
+    Cyrus is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
+    Tenant at Orion's Condos</Synopsis>
+        </Document>
         <Document ID="6EDE4176-9248-4FAE-A168-69FF63FD4043">
             <Text>Fowl Call Script #1 by Kapioga (7 pages) 
 1
@@ -496,6 +527,256 @@ Panel 1:
 
 
 </Text>
+        </Document>
+        <Document ID="83DD550D-03D7-4E85-BDF1-2B1E284F858B">
+            <Title>Pudding</Title>
+            <Synopsis>Pudding - Hedgehog
+    A Hedgdehog that works at the nail salon by the pier
+    Make her blue/green
+    Quiet and keeps to themselves but is the #1 technician in the store and among avians</Synopsis>
+        </Document>
+        <Document ID="83F78C19-BA4E-4265-BB7E-D3B31CD1B551">
+            <Title>Planning</Title>
+        </Document>
+        <Document ID="88D646FF-28E9-4A10-B11B-694BA42C19B1">
+            <Title>Character Overview</Title>
+            <Text>Characters
+
+- Inspector Vermont (Badger) - Insp: Sly Cooper
+    A hard eye investigator with over 50 years experience working in the field
+    Ex-botanist and sleuth
+    Smart, sly and unassuming, endearing
+    Hates the smell of coffee
+    Has PTSD from working in the force
+
+- Mayor Hoppin - General from Hellsing 
+    The mayor of the small town of Patch
+    A married man who had a wife and 3 kids
+    Hard headed, family man who inherited the position
+    Had a dream of becoming a pilot
+
+-Madam Hoppin 
+    Wife of the mayor
+    A seamstress with a passion for the arts but hated isolation of being in politics
+    Mild mannered, polite, anxious
+
+- Kale
+    The youngest of the three siblings group
+    Calm, polite and loves coffee (addicted)
+    Incredibly smart and oddly the most popular sibling of the bunch
+
+Suspects and Allies
+
+- Diesel - Alligator
+    Alligator bodyguard for Orion
+    Hardheaded meat lover who is deathly loyal to Orion
+    Worked as a construction worker at the town hall to gather intel for Orion
+    Later discovered their passion in construction
+
+- Cyrus - Toucan
+    Local parrot and barista at Paige's cafe
+    Cyrus is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
+    Tenant at Orion's Condos
+
+- Orion - Rooster
+    A large rooster who's vegetarian and works as a landlord for an apartment complex
+    The local charmer and is known as as the great landlord
+    Owner of a large coffee factory franchise
+    Member of the Wish Bone Cult
+
+- Phara - Possum
+    Possum that works as receptionist and head of the salon
+    Easily upset, defensive and hard headed business woman who values her staff
+    Paranoid and a little schizophrenic
+
+- Pudding - Hedgehog
+    A Hedgdehog that works at the nail salon by the pier
+    Make her blue/green
+    Quiet and keeps to themselves but is the #1 technician in the store and among avians
+
+- Paige - Sheep (has varying wool styles)
+    Owner of the Wild Roost cafe and Cyrus's roommate
+    Paige is very nonchalant but loves Japser to death, theyve know n each other since college
+    Tenant at Orion's condo and friends with Monty
+
+- Monty - Shark
+    Local fisherwoman who works at the pier
+    Monty is a hard headed hammerhead shark with a love of caffeine
+    A man of no nonsense and values their peace more than anything. 
+    Old friend of Hoppins and possibly the nicest man on the island
+    Used to date Madam Hoppins years ago </Text>
+        </Document>
+        <Document ID="946F7C63-D18E-4729-84D8-D37DA8D846D6">
+            <Title>Monty</Title>
+            <Synopsis>- Monty - Shark
+    Local fisherwoman who works at the pier
+    Monty is a hard headed hammerhead shark with a love of caffeine
+    A man of no nonsense and values their peace more than anything. 
+    Old friend of Hoppins and possibly the nicest man on the island
+    Used to date Madam Hoppins years ago </Synopsis>
+        </Document>
+        <Document ID="9593B3C4-DDD8-4531-AFB5-8C5A79C5DB15">
+            <Title>Orion</Title>
+            <Synopsis>Orion - Rooster
+    A large rooster who's vegetarian and works as a landlord for an apartment complex
+    The local charmer and is known as as the great landlord
+    Owner of a large coffee factory franchise
+    Member of the Wish Bone Cult</Synopsis>
+        </Document>
+        <Document ID="BAD8CAD0-4FD2-48AC-B017-4BB99AE07A78">
+            <Title>Kale</Title>
+            <Synopsis>The youngest of the three siblings groupCalm, polite and loves coffee (addicted)
+    Incredibly smart and oddly the most popular sibling of the bunch</Synopsis>
+        </Document>
+        <Document ID="C13411E3-47DF-48C0-85F3-568DA4555D2F">
+            <Title>Diesel</Title>
+            <Synopsis>- Diesel - Alligator
+    Alligator bodyguard for Orion
+    Hardheaded meat lover who is deathly loyal to Orion
+    Worked as a construction worker at the town hall to gather intel for Orion
+    Later discovered their passion in construction</Synopsis>
+        </Document>
+        <Document ID="D54DDD44-D924-4456-BF0D-5D81099FD88F">
+            <Title>Story Breakdowns</Title>
+            <Text>Story Breakdown
+
+CH 1
+- Mayor Hoppin has been found dead in his sleep due to unknown trauma
+-Inspector Vermont is recruited
+
+CH 2
+- The only evidence lies in the wet concrete print shaped like a bird foot print
+- He speaks to close family and guards
+- They have a conversation with Diesel [Ending 2 trigger]
+- With this evidence, investigator goes out to compare the print
+- Taking a break they head to the cafe
+- There they see a chatty parrot who had similar feet to the foot print
+- Player uses their charm and learns that they know Kale due to them stopping by often for coffee ( a new international brand)
+- They interrogate him and find out that Kale has said a few things regarding the coffee and the mayor
+- The prints from them also confirmed that their claws are different from the cement print
+- They noted the claws were trimmed so they stop at the salon. 
+
+CH 3
+- They ask for Phara 
+- Phara immediately gets upset because they felt that Vermont was suspicious
+- Player defuses the situation by requesting a pedicure
+- Phara accepts and Pudding works on Vermonts nails
+- Vermont heres from Pudding that one of their clients had a cement incident during construction and had to chisel of cement off their foot 
+- They go to see Mdm Hoppins, she knows the residents 
+
+CH 4
+- They meet with madam and Kale in the office
+- They had reached out that they need to know who Orion is
+- Madam explained that its against the privacy to disclose that info
+- The layer and Vermont later hears about this person from Kale (caffeinated) and that he runs the apartments down south
+- Player observes the weird sporatic behaviors with them. 
+- Meanwhile Player is back at the house
+- Player decides to go for a walk and wandered to Cyrus talking to Orion by a building
+- Cyrus is talking to Orion the landlord about rent 
+- Orion being understanding accepts and lets them off
+- Orion notices Player and asks them to leave ,threatening them with a knife
+- Vermont persists and gets interrupted by a flashing light
+- They turn around and Orion disappears. 
+- It was Monty, the local neighbourhood watch
+- Monty brings them to the pier to discuss the unrest the two have been causing
+- Vermont in the heat of the moment gets frustrated. All they wanted 
+    Was a peaceful retirement and theyre not having it. Plus theyre being ostracized. 
+
+CH 5
+- Monty comforts Vermont and they bond over old age and treatments and wanting peace despite their lives
+- Monty offers to be friends with Vermont and accepts
+- They later find out that some weird people have been appearing in their shift at night so they took up neighbourhood watch
+- Monty is worried that things might be changing but isnt entirely ready for what might happen to the island. 
+- Monty tells Player of some weird people she met on her night shift
+- Monty then pleads not to get them involved because they may be lead as a primary suspect due to being a shark
+- People carrying bags of some kind with a weird smell
+- Vermont notices that the smell they described is similar to Phara's the receptionist 
+- They thank Monty and runs back
+- The trail leads back to teh salon and notices Pudding there 
+- Vermont asks why Pudding is awake this late and she makes an escuse that she opens early.
+- The investigators wait outside and Player spots the weird smell again and sees Phara
+- Phara makes a break for it and jumps into the pier
+- Vermont desperate to catch her dives into the water and loses their breath
+- They were then saved by Monty
+
+CH 6
+- Player explains the situation but Vermont follows up with Orion
+- Monty explains that he's a rich landlord from overseas who came to the town to buy property
+- Monty gets suspicious and thanks Monty for their helping
+- Vermont gets a hunch and goes back to the cafe to ask the Cyrus more questions, reassuring them that they werent in trouble
+- They then met with a hooded figure (Kale) who slid the detective some documents
+- They then found out that the coffee they imported were becoming the next big hit, especially among predators
+- They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
+- Vermont encountering Orion and confronts him
+- There he gets attacked by Diesel and pinned down
+- There Orion comes from teh corner and interogates Vermont saying that he's interrupting his operations
+
+CH 7
+- Vermont tells them about the coffee and Phara and gets knocked unconscious
+- Vermont wakes up in the middle of a cult with a knife surrounding them
+- Orion standing over them ready to slice up Vermont.
+- They find out that Orion had been using the salon to find predators in the village
+    To the Wishbone cult they believe that predators are the reason the world is corrupt and must be killed. Their boddies are then exported
+    by Phara to the coffee plant nearby to be used as fertilizer for their coffee. To the same effect, the fermented meat is also a hallucinogenic due to
+    the yeast found in the fermented compost. 
+    The coffee got popular but word got out to the mayor about this newly popular product taking over the town
+    Fearing gentrification, the bill was about to be signed to ban coffee from Orion's plant
+    Orion fearing his business met with the mayor in person discretely and offered him wealth
+    The mayor denies and Orion forces a pellet down teh mayors throat suffocating him until he dies then flees the scene
+- Kale tackles Orion and he drops the knife 
+- Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
+- Orion belittles them and threatens that he's kill their family and Kale beats him up (ENDING 2 in effect)
+- Orion losing the battle escapes with Kale chasing right after him
+- In the middle of town, Orion fights Kale and takes a fiber pill (Ending 1 in effect)
+- Kale then pushes him into the fountain to drown him but the moisture swlls the fiber pill killing Orion instantly
+- The town seeing this is shocked that he had killed Orion and is arrested for murder.
+- Player and Vermont bails him out but Kale refuses to go home
+- They have no where to go and they dont think they can return to their old life
+- The crew then recruits them to their team as community service 
+- Everything went well until flyers started falling from the sky
+- Notifying the town of the Wish Bone Society returning
+END
+
+--Thinking about this further
+Alternative ENDING 1
+CH4 - Condition: If Vermont doesnt press Pudding
+- Diesel catches up to the two and breaks up the fight and pins Orion down on the ground
+- Diesel then tells the town that Orion used the pills to suffocate the mayor
+- The towns folks didnt believe him until they threw it in the fountain revealing its effects
+- Pudding vouches for them And tells that their owner was behind those operations
+- Pudding also explains why there has been missing people these days and the suffering must end now.
+- The mayor's wife made the declaration that all 5 of them will be arrested (Kale, HH, Diesel, Orion and Phara)
+- Later on The mayor's wife arrived at the garden with Diesel, Kale and Pudding.
+- She declares that they have been released from prison but under the condition that they serve community service
+- Vermont agrees and they all help her with her business
+END
+
+Alternative ENDING 2
+CH4 - Condition: If the player chooses to make Player go back to the mayors office
+- Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
+- Orion belittles them and threatens that he's kill their family and Kale beats him up
+- The mayor's wife appears with Player and Monty
+- The mayor's wife orders that the coffee factory be banned from all know territory on the island and locked away in confinement 
+- Orion retaliates but is then countered by their bodyguard.
+- Orion is arrested and Orion's bodygruard is then appointed as head construction worker of the town
+END</Text>
+        </Document>
+        <Document ID="DC783630-EEB4-4487-B6BD-4937A7EB82A3">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="E71DE866-803F-48F3-BD30-A0DAD597ABB6">
+            <Title>Phara</Title>
+            <Synopsis>Phara - Possum
+    Possum that works as receptionist and head of the salon
+    Easily upset, defensive and hard headed business woman who values her staff
+    Paranoid and a little schizophrenic</Synopsis>
+        </Document>
+        <Document ID="EEC1EE04-4135-4EA4-8A31-2A7DFE6CB757">
+            <Title>Madam Hoppin</Title>
+            <Synopsis>Madam Hoppin 
+    Wife of the mayor
+    A seamstress with a passion for the arts but hated isolation of being in politics
+    Mild mannered, polite, anxious</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>
