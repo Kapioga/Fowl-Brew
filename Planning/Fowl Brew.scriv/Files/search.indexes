@@ -496,6 +496,202 @@ CHAPTER 1 END
         <Document ID="57A7943B-C894-40EB-A13E-7F729939846D"/>
         <Document ID="65F89DD1-0B2D-43F2-AB4E-659896EEF1B9">
             <Title>Chapter 5</Title>
+            <Text>CH5
+
+[Vermont and player rush into the salon]
+
+Vermont
+Hello, is anyone here?
+
+Pudding
+Detective? Your back, whats wrong?
+
+Vermont
+Nothing of concern but I need to speak to your manager.
+
+Pudding
+Phara? She just left, its closing hour so she left me to clean up shop.
+
+Vermont
+Do you know when she’ll be back.
+
+Pudding
+I dont know. She always leaves early and she’s not the type to share her personal business.
+
+Vermont
+I see, mind if we wait around while incase she comes back?
+
+Pudding
+Of course!
+
+[Player and vermont wait out at the front of teh salon]
+
+Vermont
+I think were starting to get the big picture here [Player]
+Just as Monty mentioned, we have a prime suspect in the wait but we cant just barge in and make accusations. We have to figure out how to expose this man for who he truly is and fast.
+
+[Vermont picks up on the smell again and sees a shadowy figure in the distance]
+
+Vermont
+Over there!
+
+[Player and Vermont pick up on the scent and book it towards the pier]
+
+Vermont
+Wait, stop!
+
+[ The figure dives into the water and Vermont follows suit. The figure then grabs Vermont’s leg and pulls him down. Unable to breathe Vermont struggles to swim up to the surface and is then rescued by Monty]
+
+Monty
+The hell are you doing out here!
+
+Vermont
+Cough cough. I was close
+
+Monty
+Are you nuts?! You cant swim, you couldve drowned.
+
+Vermont
+Monty, I saw them!
+
+MontyWhat?
+
+Vermont
+The person who smelled of meat and roses.
+We chased them all the way to the pier and they jumped into the ocean…did you see them?
+
+Monty
+Sorry, detective. I was in the shack I didnt even see anyone jump in.
+
+Vermont
+DAMN. And we were so close too.
+
+Monty
+Perhaps you should rest a bit.
+
+Vermont
+NO. 
+This case has gone on long enough, dont you see.
+Liek you said, people are going missing, that crazy chicken threatened to kill me and I nearly drowned. 
+
+Monty
+Listen.
+I know this is tough but you gotta keep it together man. 
+Ill help however way I can, you have me and player to help as well.
+What did you both see.
+
+Vermont
+I saw a figure with a long tail jumping in with a sack.
+
+Monty
+The water…that mustve been the reason Ive been the only one who’s noticed that weird smell. Whomever did this knew what they were doing and had the experience behind it.
+
+Vermont
+There was a trail that they left while we chased them…
+
+Monty
+Alright, lets follwo the trail and see where it leads.
+
+Vermont
+Your coming with us?
+
+Monty
+Your gonna need all the help you can get.
+
+[The three follow the trail that leads to near the cafe]
+
+Vermont
+Stay here Monty, Player and I have a few questions we need to ask.
+
+[Vermont enters the cafe]
+
+Cyrus
+Vermont, its good to see you again!
+
+Vermont
+Wonderful to see you as well Cyrus, hows everything.
+
+Cyrus
+Nothing out of the usual, just the same old.
+
+Vermont
+I saw you just the other day with Orion.
+
+Cyrus
+Oh him? Yeah we were just chating about the usual business. A friend of his stopped by with another sack of those special coffee beans.
+
+Vermont
+Aside from said friend do you know where he got these beans.
+
+Cyrus
+Theyre imported from what im told but between you and me.
+Mr Orion said that since business has been booming with these new beans that he’s planning on building a coffee plant for the town!
+
+Vermont
+A coffee plant!
+
+Cyrus
+Yeah! And he said he’ll make me the manager of it once its ready!
+Isnt that exciting!
+
+Vermont
+Interesting, so Orion is the one behind these beans.
+
+Cyrus
+Thats right!
+Care for a sample?!
+
+Vermont
+You know what, maybe I will. Thank you
+
+[Vermont takes a cup and leaves the shop]
+
+Vermont
+…
+
+[Vermont takes a sip of the coffee]
+
+Vermont
+Cough cough, ahahahaha!! This is great, woo!
+
+Monty
+You alright?
+
+Vermont
+Never felt so good! Monty want me to do anything for you buddy?!
+Ill do anything anything!
+
+Monty
+The matter with you???
+
+[Player splashes them with water]
+
+Vermont
+What what happened?
+
+Monty
+You drank that sample and went full on crazy.
+As if you were addicted to teh stuff. Have you had coffee before?
+
+Vermont
+Im not the biggest fan of it but… if what you said is true then…
+Were going to Orion.
+
+Monty
+What?
+
+Vermont
+We never got the chance to properly speak to him… Monty, I wont make you come along if you arent comfortable. 
+
+Monty
+Ill follow the trail from earlier, you can go on ahead. 
+
+Vermont
+Alright. [Player] this is our last shot. I dont know who this man is… but if what Kale said is true, we MUST be on our toes. He’s the only one in town we havent spoken with… its all or nothing.
+
+[Vermont storms off with Player back to the condominiums]
+
+</Text>
         </Document>
         <Document ID="6EDE4176-9248-4FAE-A168-69FF63FD4043">
             <Text>Fowl Call Script #1 by Kapioga (7 pages) 
@@ -1343,6 +1539,8 @@ What the who?!
 Vermont
 We mean no harm, were just here to meet Orion her-
 
+[Vermont notices that Orion flees the scene but the wet pavement is there]
+
 ???
 …No one else is here but the two of you
 
@@ -1576,8 +1774,7 @@ Vermont
 Sacks? Could you describe the person you saw holding it.
 
 Monty
-Sharks don't have good eye sight but that bag, wreaked of meat. 
-And the person carrying it smelled of roses.
+Sharks don't have good eye sight but that bag, wreaked of meat and roses. 
 
 Vermont
 Roses… The receptionist, Phara?!
@@ -1642,8 +1839,6 @@ CH 4
 - Monty brings them to the pier to discuss the unrest the two have been causing
 - Vermont in the heat of the moment gets frustrated. All they wanted 
     Was a peaceful retirement and theyre not having it. Plus theyre being ostracized. 
-
-CH 5
 - Monty comforts Vermont and they bond over old age and treatments and wanting peace despite their lives
 - Monty offers to be friends with Vermont and accepts
 - They later find out that some weird people have been appearing in their shift at night so they took up neighbourhood watch
@@ -1653,26 +1848,24 @@ CH 5
 - People carrying bags of some kind with a weird smell
 - Vermont notices that the smell they described is similar to Phara's the receptionist 
 - They thank Monty and runs back
-- The trail leads back to teh salon and notices Pudding there 
-- Vermont asks why Pudding is awake this late and she makes an escuse that she opens early.
+
+CH 5
+- The trail leads back to the salon and notices Pudding there 
+- Vermont asks why Pudding is still here and she says its closing time
 - The investigators wait outside and Player spots the weird smell again and sees Phara
 - Phara makes a break for it and jumps into the pier
 - Vermont desperate to catch her dives into the water and loses their breath
 - They were then saved by Monty
-
-CH 6
-- Player explains the situation but Vermont follows up with Orion
-- Monty explains that he's a rich landlord from overseas who came to the town to buy property
-- Monty gets suspicious and thanks Monty for their helping
+- Vermont follows up with Orion
+- Vermont gets suspicious and thanks Monty for their helping
 - Vermont gets a hunch and goes back to the cafe to ask the Cyrus more questions, reassuring them that they werent in trouble
-- They then met with a hooded figure (Kale) who slid the detective some documents
 - They then found out that the coffee they imported were becoming the next big hit, especially among predators
 - They then found out that Orion is the owner of the coffee manufacturer and heads back to the complex to ask further questions
 - Vermont encountering Orion and confronts him
 - There he gets attacked by Diesel and pinned down
 - There Orion comes from teh corner and interogates Vermont saying that he's interrupting his operations
 
-CH 7
+CH 6
 - Vermont tells them about the coffee and Phara and gets knocked unconscious
 - Vermont wakes up in the middle of a cult with a knife surrounding them
 - Orion standing over them ready to slice up Vermont.
@@ -1696,30 +1889,6 @@ CH 7
 - The crew then recruits them to their team as community service 
 - Everything went well until flyers started falling from the sky
 - Notifying the town of the Wish Bone Society returning
-END
-
---Thinking about this further
-Alternative ENDING 1
-CH4 - Condition: If Vermont doesnt press Pudding
-- Diesel catches up to the two and breaks up the fight and pins Orion down on the ground
-- Diesel then tells the town that Orion used the pills to suffocate the mayor
-- The towns folks didnt believe him until they threw it in the fountain revealing its effects
-- Pudding vouches for them And tells that their owner was behind those operations
-- Pudding also explains why there has been missing people these days and the suffering must end now.
-- The mayor's wife made the declaration that all 5 of them will be arrested (Kale, HH, Diesel, Orion and Phara)
-- Later on The mayor's wife arrived at the garden with Diesel, Kale and Pudding.
-- She declares that they have been released from prison but under the condition that they serve community service
-- Vermont agrees and they all help her with her business
-END
-
-Alternative ENDING 2
-CH4 - Condition: If the player chooses to make Player go back to the mayors office
-- Orion shouts for their bodyguard to attack them but had enough and stands up for themselves
-- Orion belittles them and threatens that he's kill their family and Kale beats him up
-- The mayor's wife appears with Player and Monty
-- The mayor's wife orders that the coffee factory be banned from all know territory on the island and locked away in confinement 
-- Orion retaliates but is then countered by their bodyguard.
-- Orion is arrested and Orion's bodygruard is then appointed as head construction worker of the town
 END</Text>
         </Document>
         <Document ID="DC783630-EEB4-4487-B6BD-4937A7EB82A3">
