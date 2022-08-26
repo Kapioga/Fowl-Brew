@@ -328,13 +328,18 @@ It was a cold windy day as a storm was beginning to brew after a long week of su
 [Scene reveals to be the police station]
 
 CHIEF
-What kind of bastard would do such a thing. And here I thought this town was finally getting peaceful. 	Ma’am, do you or your son remember anything else that night?
+What kind of bastard would do such a thing. 
+And here I thought this town was finally getting peaceful. 
+Ma’am, do you remember anything else that night?
 
 MADAM HOPPIN
-Not that I know of my daughter was the one who…found him. I’m sure she can provide more details, however. 	Right now, we’d like to be left alone, we’ve already have enough on our plate as is chief.
+Not that I know of my daughter was the one who…found him. 
+I’m sure she can provide more details but, right now… we’d like to be left alone for the time being. Im sure you understand, cheif.
 
 CHIEF
-I understand madam
+Yes, of course. I understand.
+
+[The chief packs up and heads out to of the room to investigate the area further bu twas stopped by Madam Hoppin. ]
 
 MADAM HOPPIN
 Chief.
@@ -343,28 +348,32 @@ CHIEF
 Yes, Madam?
 
 MADAM HOPPIN
-I want you to find whoever did this and bring them to me at any 	means necessary. They have disrupted the balance of not only this town but the lives of this family. He was a peaceful man who was selfless and cared for this town for years…Stop at nothing until the monster who did this gets the punishment they deserve.
+I want you to find whoever did this and bring them to me by any means necessary. They have disrupted the balance of not only this town but the lives of this family. My husband was a peaceful man who was selfless and cared for this town for years…Stop at nothing until the monster who did this gets the punishment they deserve.
 
 CHIEF
-I understand.
+Understood.
 
 [Chief leaves city hall to return to the police station]
 
 CHIEF
-…Unbelievable. Were already piled on with missing cases and ow the mayor’s dead. Things are getting out of hand.
+…Unbelievable. Were already piled on with missing cases and now the mayor... Things are getting out of hand.
 
-[1 : OPTIONS ACTIVE (See comments)]
+[The chief looks at the piles of papers stacked on their desks looking defeated]
+
+[Player Options #1] 
 
 CHIEF
 ?!
-Oh you, I didn’t see you there. Sorry, my memory is still fuzzy what was your name again?
+Oh you, I didn’t see you there. 
+Sorry, my memory is still a bit fuzzy…what was your name again?
 
 [Player inserts name]
 
 CHIEF
-Ah yes, [player]. Your new here, aren’t you? You’ve come at the right time detective. I’m sure you’ve already heard of what happened in city hall… The entire station is backed up and we could you as much help as we can get.
+Ah yes, [player]. Your new here, aren’t you? 
+You’ve come at the right time detective. I’m sure you’ve already heard of what happened in city hall… The entire station is backed up and we could you as much help as we can get.
 
-[2. OPTIONS ACTIVE (See comments)]
+[Player Options #2] 
 
 Chief [ If options 1 or 2]
 
@@ -372,9 +381,10 @@ CHIEF [IF OPTION 3]:	?! I will not tolerate such disrespect in my office. The fo
 
 CHIEF [AFTERWARDS]:	Anyway, your still new here so I can’t just trust a new detective from the academy for such a hefty case. Here take this, I need you to go to this address and look for this person. They just got off retirement but the best person for this job. I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. Will you, do it?
 
-[3. OPTIONS ACTIVE (See comments)]
+[IF PLAYER AGREES]
 
-CHIEF:	Perfect, knew I can count on you! Good luck and don’t let me down. 
+CHIEF
+Perfect, knew I can count on you! Good luck and don’t let me down. 
 
 [ Case File received.]
 
@@ -382,38 +392,40 @@ Panel 1: Vermont's Garden
 
 [Pans to the street sign with address in case] 
 
-It was bright, clear sky on this wonderful Saturday morning. Lush fruitful trees, colorful flowers dancing in the wind, not a worry in sight on this beautiful day. 
+[ It was bright, clear sky on this wonderful Saturday morning. Lush fruitful trees, colorful flowers dancing in the wind, not a worry in sight on this beautiful day. ]
 
 [PLAYER]
 This must be the place.
 
-The player walks up to a beautiful garden with trees and flowers of many a variety. Curious they stop to smell the flowers and appreciate the scenery.
+[ The player walks up to a beautiful garden with trees and flowers of many a variety. Curious they stop to smell the flowers and appreciate the scenery. ]
 
 ??:	
-Magnolias.
+Enjoying the Magnolias?
                  
 [PLAYER]
 ?!
 
-A tall smiling deer appeared behind you. They’re wearing a flowery apron and wreak of roses.
+[A tall elderly badger appeared behind you. They’re wearing a flowery apron and wreak of roses.]
 
 ??
-Those are magnolias, one of my prized flowers. They were a gift from an old friend.
+Those are magnolias, one of my prized flowers. 
+They were a gift from an old friend.
 
 [PLAYER]
 They are gorgeous, I don’t think I’ve seen these types of flowers on the island.
 
 ??
-Excellent observation detective, they are native in another island not too far from here, but I do appreciate the flattery.
+Excellent observation, they are native on another island not too far from here, but I do appreciate the compliment, [ Player].
 
 [PLAYER]
 How did you???
 
 ??
-	It’s a small town, dear. Its not hard to know who is who around here. Oh, mind my manners, I’m Vermont the owner of this garden.
+	It’s a small town. Its not hard to know who is who around here. 
+Oh, mind my manners, I’m Vermont the owner of this garden.
 
 [PLAYER]
-I’m [Player].
+I’m Detective [Player].
 
 VERMONT
 Pleasure to meet you detective [Player]. What brings you here?
@@ -691,6 +703,12 @@ Alright. [Player] this is our last shot. I dont know who this man is… but if w
 
 [Vermont storms off with Player back to the condominiums]
 
+Vermont
+Were here but where the hell could he be…
+
+[Vermont rings the doorbell then a shadowy figure knocks them both out]
+
+CH5 END
 </Text>
         </Document>
         <Document ID="6EDE4176-9248-4FAE-A168-69FF63FD4043">
@@ -1191,6 +1209,212 @@ Panel 1:
         </Document>
         <Document ID="7F91154E-A1BC-4186-AD11-427A2DD8004B">
             <Title>Chapter 6</Title>
+            <Text>CH6 FINAL
+
+[Vermont and Player wake up with Diesel and Orion standing before them. Both locked onto a Pillory in the middle of the forest with little to no presence.]
+
+Vermont
+What the?! [Player} are you ok??
+Orion, you parasite! What have you done with us.
+
+Orion
+Oh, why little ol me didnt do a thing. Its you who’s the true parasite, meddling in my business with your interruptions.
+
+Vermont
+Is this what you call a business? Meddling with these poor innocent townsfolk. And that coffee of yours…what did you do to them?
+
+Orion
+Id watch that attitude of yours if I were you.Diesel..
+
+[Vermont is punched by Diesel]
+
+Vermont
+AGH!
+
+Orion
+Interesting that you have the audacity to invade my new island with these assumptions.
+
+[Orion lifts Vermonts head with a knife by his neck]
+
+Orion
+But a little cutie like you, itd be a shame for me to kill you right this second. Though, the wishbone society would be quite displeased if I left one alive..
+
+Vermont
+Wishbone? The fuck are you getting at?
+
+Orion
+You see, my dear Vermont. People like you…predators with your claws and sharp teeth, scare little ol folks like us. Prey constantly on the watch for people like you. There were too many of you and I just had to simple do some…damage control.
+
+Vermont
+Your the one behind those missing people.
+
+Orion
+Itd be a lie if I said I wasnt but it was all for good reason detective dont you worry.
+
+Vermont
+What good of a reason could possibly have had to murder all these townsfolks and get away with it. What did you eat them or something.
+
+Orion
+Oh that would be simply barbaric, do I look like a man who would even think of eating you fiends. I had them buried of course.
+
+Vermont
+Liar! Its that coffee… ever since youve shown up and that time I drank it… Those beans came from YOU. What did you do to those innocent people.
+
+Orion
+Oh detective, I wish I could spoil the ending but I think a smart detective like yourself could put two and two together.
+
+Vermont
+No…you didnt.
+
+Orion
+The missing predators merely became fertilizer for my coffee beans. I find that natural decomposition of flesh is the perfect additive for my concoction.
+
+Vermont
+You… Why?! Why go through all this! Was the mayor one of your fertilizers?!
+
+Orion
+Pfft, that filty ingrate.
+No it would have been too easy if rolled the dice with that man.
+
+[Orion casually sits next to Vermont knife in hand]
+
+Orion
+You see, I have a dream… to make this island great!
+When I got to this boring wasteland, I saw something missing, a direction. With this island slowly wasting away, these people needed something.
+
+Vermont
+Coffee??
+
+Orion
+A new leader. 
+At first I simply wanted a little coffee plant on this island, itd provide the people here with new hope and opportunities. But that ingrate denied my request… NOONE SAYS  NO TO ORION.
+I had to make an example out of him.
+
+Vermont
+You killed the man for some dumb coffee.
+
+Orion
+Oh silly, is that what you think? Open your ears~
+This town needed a direction, a new leader…me. I was hoping that the mayour would I accept my new construction plans but I had enough.
+I Am Orion Von Revitora, billionaire extroidinaire… he was just a lowly frog who though low of me. So I did what I could, the old man had a slight cough you see and I offered him some medicine of my own device. A fiber pill.
+
+Vermont
+No… you didnt!
+
+Orion
+The sucker, swallowed it with some water and slowly passed before me.
+Oh you should have seen it detective, such a wonderful sight.
+Seeing your enemies, learn their lesson.
+
+Vermont
+You bastard! He was an innocent man, they were all innocent! 
+
+Orion
+Tisk tisk… is someone getting a little riled up. 
+I think its time for me to help you and your little partner here get some rest.
+
+[Kale bursts from the bushes with Monty following suit]
+
+Kale
+You fucker! Your the one who did it and after I trusted you!
+
+Orion
+Unhand me! Diesel get them!
+
+[Diesel attempts to break Kale off Orion but Monty interrupts and start fighting]
+
+Orion
+You idiot, forget him and help ME. 
+Ill kill you and your who fucking family!
+
+[Orion clearly losing the fight, retreats to town. Kale follows suit.]
+
+Kale
+Get back here!
+
+Vermont
+Kale! No get away from him!
+
+[Monty helps teh player and vermont get out of the pillory. Kale and Orion make it to the town square. Kale blindly continues to throw pucnhes at Orion while he submits.]
+
+Orion
+Stop! Please no!
+
+[Kale in a blind rage grabs Orion and waterboards him in the fountain. While Orion was flaily he grabs a fiber pill and swallows it, then swallows the water from the fountain]
+
+[The towns folk watch in horror as Kale chokes Orion until his arm goes limp. Kale, recovering from her rage breathes heavily and takes a few steps back to see what theyve done. Vermont, Player and Monty make it to town and sees teh aftermath]
+
+Townsfolk
+Murderer! It was Kale all along! She murdered Orion! How could you! The mayor’s daughter!
+
+Kale
+I… I…
+
+[Kale in shock looks at their hands as the police arrive and arrests them]
+
+Chief
+Kale Hoppins, you have been arrested and charged for homicide and the murder of Orion.
+
+Kale
+Im sorry, I just…
+
+[ Kale looks at Vermont as they are locked into the police car and slowly driven away]
+
+Vermont
+Kale… I…damn it
+
+[The town disburse as the remaining officers slowly cover and dispose of Orions body.]
+
+[A few months later in the penetentiary]
+
+Officer 
+Kale Hoppins, you bail has been covered. You free to leave.
+
+Kale
+What? Who?
+
+[Vermont, Kale and Monty showed up]
+
+Vermont
+Hi Kale.
+
+Kale
+…Vermont 
+
+[Kale rushes over to Vermont and gives her a hug]
+
+Kale
+Im sorry, I knew I shouldnt have… I just didnt
+
+[Vermont gives them a hug]
+
+Vermont
+Its ok, I know… you did what you could.
+
+Kale (crying)
+Mom, never visited either…. 
+I dont think I can go back home, Vermont.
+
+Vermont
+… would you like to stay with me?
+
+Kale
+?!
+
+Vermont
+I have plenty of room at my home, your always welcome to-
+
+Kale
+Yes, thank you!
+
+[Kale continues to hug Vermont as Player and Monty watch the two. A few weeks later, the four are tending to Vermont’s garden and Monty notices the sky getting darker than usual With paper started falling from the sky. Vermont hesitates and picked up one of the flier. The flier, painted in blood read “The WishBone Society will return”. The four stare in horror of the new flier and worry about the future of the island.]
+
+THE END
+
+
+
+
+</Text>
         </Document>
         <Document ID="83DD550D-03D7-4E85-BDF1-2B1E284F858B">
             <Title>Pudding</Title>
@@ -1214,6 +1438,8 @@ Panel 1:
         <Document ID="88D646FF-28E9-4A10-B11B-694BA42C19B1">
             <Title>Character Overview</Title>
             <Text>Characters
+-Detective Player 
+	Main character
 
 - Inspector Vermont (Badger) - Insp: Sly Cooper
     A hard eye investigator with over 50 years experience working in the field
@@ -1251,7 +1477,7 @@ Suspects and Allies
     Cyrus is very confident, playful and mischievous often immitating custoemrs but blurts things out when nervous
     Tenant at Orion's Condos
 
-- Orion - Rooster
+- Orion Von Revitora - Rooster
     A large rooster who's vegetarian and works as a landlord for an apartment complex
     The local charmer and is known as as the great landlord
     Owner of a large coffee factory franchise
@@ -1299,6 +1525,30 @@ Suspects and Allies
         <Document ID="982EF0BE-3F93-40FD-A8F6-F136D92DCC12">
             <Title>Option 1</Title>
             <Synopsis>- Orion</Synopsis>
+        </Document>
+        <Document ID="B1A64F62-7D13-4519-A96E-606131A86436">
+            <Title>Items Received</Title>
+            <Text>MAIN CLUES
+- Case File [ CH1 ]
+
+- Footprint = From the scnene of the crime
+
+- Coffee grinds = Found outside the room where the mayor was murdered [ CH 2]
+
+- Coffee samples = Gotten from teh cafe
+
+- Nail file = Item from the salon
+
+- Smelly bag = Found at the pier
+
+- Dried cement wit ha scale on it = Found at the salon
+
+- Fiber pills = Found after talking to Orion
+
+- Cease and Decist order = FOund in the mayors office (torn)
+
+- Medical reports = Found outside mayor's office
+</Text>
         </Document>
         <Document ID="BAD8CAD0-4FD2-48AC-B017-4BB99AE07A78">
             <Title>Kale</Title>
@@ -1792,6 +2042,75 @@ He-he, will do.
 
 [ Vermont and Player rush off to the salon now that the newest suspect has been reveled ]
 CH 4 END 
+</Text>
+        </Document>
+        <Document ID="CAA11916-C95F-4573-BE68-B5BCBFBDD847">
+            <Title>Locations</Title>
+            <Text>LOCATIONS
+
+The island: Lucia
+Town: Greater Niles
+Cafe: Wild Roost
+Condos: 
+
+- Vermont's Garden
+- Vermont's Hut
+- Police Station
+- Mayor's office
+- Mayor's Office Parking Lot
+- View of Town square
+- The cafe* (Wild Roost)
+- The pier*
+- The salon*
+- The Condos*
+- City Streets wth fountain*
+- Secluded farm *
+- Cafe counter*
+- Salon front*
+- The Pier's Dock*
+- Forest view Dock
+- Deep Forest
+- Forest view town</Text>
+        </Document>
+        <Document ID="D2DC21A8-A2D7-4D15-BC44-BF034AA3312E">
+            <Title>Sub Dialogue CH1</Title>
+            <Text>Player Options #1
+
+- Reporting for duty, Chief!
+[Proceed with main dialog]
+
+- Looks like you need some help.
+[Proceed with main dialog]
+
+- Get over it, its not that serious
+CHIEF
+How dare you!
+We at this department care very much for the safety of the town. Every case needs to be taken just as seriously but…were short on staff…
+                                                                                                    
+Player Options #2
+
+-I can take over!
+[Proceed with main dialog]
+
+-You should find someone else.
+[Proceed with main dialog]
+ 
+- Sounds like a you problem
+CHIEF [IF OPTION 3]:
+?! 
+I will not tolerate such disrespect in my office. 
+The force has been working hard to ensure that the townsfolk feel safe for generations to come. 
+And I won’t allow some spoiled, asshole from the city poison this town’s safety with your attitude.
+
+CHIEF [AFTERWARDS]
+Anyway, your still new here so I can’t just trust a new detective from the academy for such a hefty case. 
+Here take this, I need you to go to this address and look for this person.
+ They just got off retirement but the best person for this job.
+ I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. Will you, do it?
+
+                                                                                                    
+
+
 </Text>
         </Document>
         <Document ID="D54DDD44-D924-4456-BF0D-5D81099FD88F">
