@@ -3207,7 +3207,8 @@ How long has he lived here.
 
 Kale
 Oh he just got here a few months back. 
-Got real chumming with the people here and now he’s got his own little fan club. Its kind of weird now that you mention it.
+Got real chumming with the people here and now he’s got his own little fan club. 
+Its kind of weird now that you mention it.
 
 Vermont
 I see. Do you know where he is right now?
@@ -3579,7 +3580,8 @@ CH 4 END
 The island: Lucia
 Town: Greater Niles
 Cafe: Wild Roost
-Condos: 
+Condos: Crow’s Nest
+
 
 - Vermont's Garden
 - Vermont's Hut
@@ -3591,14 +3593,9 @@ Condos:
 - The pier*
 - The salon*
 - The Condos*
-- City Streets wth fountain*
-- Secluded farm *
-- Cafe counter*
 - Salon front*
 - The Pier's Dock*
-- Forest view Dock
-- Deep Forest
-- Forest view town</Text>
+- Deep Forest</Text>
         </Document>
         <Document ID="D2DC21A8-A2D7-4D15-BC44-BF034AA3312E">
             <Title>Sub Dialogue CH1</Title>
