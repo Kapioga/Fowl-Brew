@@ -11,7 +11,7 @@
             <ItemID>A9B87E0C-7BC0-4D30-9A1F-739EC7881ACA</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>D54DDD44-D924-4456-BF0D-5D81099FD88F</ItemID>
+            <ItemID>88D646FF-28E9-4A10-B11B-694BA42C19B1</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -178,7 +178,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>3428,0</Selection>
+                <Selection>1826,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -219,9 +219,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>C61121BC-FD4A-4F93-8962-0056B496AE55</ItemID>
+                    <ItemID>88D646FF-28E9-4A10-B11B-694BA42C19B1</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="125">
+                <NavigationHistory CurrentIndex="126">
                     <HistoryItem Type="BinderItems" ViewMode="Single">DC783630-EEB4-4487-B6BD-4937A7EB82A3</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">88D646FF-28E9-4A10-B11B-694BA42C19B1</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">DC783630-EEB4-4487-B6BD-4937A7EB82A3</HistoryItem>
@@ -348,6 +348,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">C61121BC-FD4A-4F93-8962-0056B496AE55</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">D54DDD44-D924-4456-BF0D-5D81099FD88F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">C61121BC-FD4A-4F93-8962-0056B496AE55</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">88D646FF-28E9-4A10-B11B-694BA42C19B1</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
