@@ -35,7 +35,9 @@
         <Document ID="2347FF6A-A9A9-4E4F-8AEE-F1D57BD778D3"/>
         <Document ID="36BCD383-176F-4193-A957-4BFEA4C23649">
             <Title>Chapter 2</Title>
-            <Text>CHAPTER 2
+            <Text>
+
+CHAPTER 2
 
 [City Hall in the Mayor’s room. Scene of the crime, player and Vermont are in the mayor’s office. The three are standing over an outline of where Hoppins was found with other officers in the background.]
 
@@ -56,7 +58,7 @@ KALE
 …
                  
 MADAM HOPPIN
-Its okay dear, they’re only here to help. Would you like to speak to the detectives? Or would you like to go outside?
+It’s okay dear, they’re only here to help. Would you like to speak to the detectives? Or would you like to go outside?
 
 KALE
 	I’m ok with talking to them. I want to help with this case too.
@@ -84,7 +86,7 @@ MADAM HOPPIN
 She’s going through a lot right now, please forgive her
 
 VERMONT
-Its not a problem Ms. Hoppins. I’m sure this must’ve been a lot to take in on a regular night. [Player] and I will inspect the area for clues.
+It’s not a problem Ms. Hoppins. I’m sure this must’ve been a lot to take in on a regular night. [Player] and I will inspect the area for clues.
 
 MADAM HOPPIN
 Of course, I shall leave it to you both
@@ -103,24 +105,24 @@ These are still fresh, and I don’t see any signs of a coffee maker in here. No
 [PLAYER RECEIVES NEW EVIDENCE] 
 
 VERMONT
-I think that should be everything, lets see if we can find anyone else to speak to about this incident.
+I think that should be everything, let’s see if we can find anyone else to speak to about this incident.
 
 [Player gets option to go outside if needed]
 
 Panel 1: The Drive through
 
 VERMONT
-Huh…No ones here. Well since were already outside lets see if we can find anything out of place. The mayor’s office is just above here so the culprit must have jumped through the window and landed here.
+Huh…No one’s here. Well since were already outside let’s see if we can find anything out of place. The mayor’s office is just above here so the culprit must have jumped through the window and landed here.
 
-[Player has option to scout the area. If side walk is chosen:]
+[Player has option to scout the area. If sidewalk is chosen:]
 
 VERMONT
 Did you find something?
 ?!	
-A foot print? And it looks like it got engraved in the cement
+A foot prints. And it looks like it got engraved in the cement
 
 ??
-Hey you there! You cant be here.
+Hey you there! You can’t be here.
 
 VERMONT
 Apologies, who might you be?
@@ -129,27 +131,27 @@ DIESEL
 Diesel, a contractor, I work here. And you are?
 
 VERMONT
-Im Inspector Vermont and this is my partner [Player]	Were here to…
+I’m Inspector Vermont and this is my partner [Player]	Were here to…
 
 DIESEL
-Im gonna have to stop you right there. I heard about the mayor and the whole kerfuffle but your stepping on wet cement there bud.
+I’m going to have to stop you right there. I heard about the mayor and the whole kerfuffle but you’re stepping on wet cement their bud.
 
 [Vermont scrambles to get out and wipe their hooves]
 
 DIESEL
-No one reads the signs these days. Its bad enough I have to lay a fresh coat after some idiot messed up the last one.
+No one reads the signs these days. It’s bad enough I have to lay a fresh coat after some idiot messed up the last one.
 
 VERMONT
 You mean the footprint?
 
 DIESEL
-Yeah, see. The sidewalk needs a bit of polishin’. People have been complaining nowadays so I was hired to rework the thing.
+Yeah, see. The sidewalk needs a bit of polishin.’ People have been complaining nowadays so I was hired to rework the thing.
 
 [Player Options: Where were you | Who do you work for?]
 
 DIESEL
 [If asked: Who do you work for?]	
-Listen pal, enough with the questions. Im just here to grab my coffee, lay out cement and go home. Don’t want any part of this mayor thing
+Listen pal, enough with the questions. I’m just here to grab my coffee, lay out cement and go home. Don’t want any part of this mayor thing
 
 VERMONT
 I understand. Could we perhaps keep this piece here?
@@ -160,7 +162,7 @@ Do whatever you want, just get out of here.
 [Player receives footprint and gets kicked out to the city street]
 
 VERMONT
-Well that was pleasant. I know Im new here but Ive never seen there face before.	At least we retrieved more evidence, we couldn’t find anything else on the scene….
+Well, that was pleasant. I know I’m new here, but I’ve never seen their face before.	At least we retrieved more evidence, we couldn’t find anything else on the scene….
 
 [Player has a chance to look through evidence]
 
@@ -168,7 +170,7 @@ VERMONT
 All we have are a few coffee beans and a footprint. 
 Given from the looks of it the culprit must have been an avian of some kind. 
 
-[Player: Lets stop at the café]
+[Player: Let’s stop at the café]
 
 VERMONT
 Your right, no sense standing here thinking.
@@ -181,7 +183,7 @@ Panel 1: Wild Roost Cafe
 Number 94, Caramel Latter extra cream hold the sugar!
 
 VERMONT
-Wow, wasn’t what I was prepared for.
+Wow wasn’t what I was prepared for.
 
 [A chatty barista is spotted behind the register]
 
@@ -213,13 +215,13 @@ Not a fan of coming to this place, it smells weird.
 [Player: Smells fine to me. | Is it the coffee | That’s weird]
 
 VERMONT
-Ive been here before since I moved.
-For some reason the coffee just wreaks… Ive had coffee else where but this café is just, not for me	Although that barista… noticed anything weird about them [Player]
+I’ve been here before since I moved.
+For some reason, the coffee just wreaks… I’ve had coffee elsewhere, but this café is just, not for me	Although that barista… noticed anything weird about them [Player]
 
 [Player mentions their feet]
 
 VERMONT
-Precisely, theyre an avian with an similar footprint to the evidence we retrieved at Town Hall. We should speak to them
+Precisely, they’re an avian with a similar footprint to the evidence we retrieved at Town Hall. We should speak to them
 
 [Player: We should leave them alone | Invite them to the table | Just enjoy your drink]
 
@@ -230,7 +232,7 @@ VERMONT
 This is a stunning design, sir, did you make this?
 
 CYRUS
-Oh thank you I did, Ive been working on my technique since I started working here *squawk*
+Oh, thank you I did, I’ve been working on my technique since I started working here *squawk*
 
 VERMONT
 Please, do take a seat with us. We’d love to learn more.
@@ -238,16 +240,16 @@ Please, do take a seat with us. We’d love to learn more.
 [Cyrus hesitates]
 
 CYRUS
-I should probably get back, theres probably a few customers waiting in line.
+I should probably get back, there’s probably a few customers waiting in line.
 
 VERMONT
-It seems its just us. I insist.
+It seems it’s just us. I insist.
 
 [Cyrus squawks then take a seat]
-[Vermont sips theyre drink.]
+[Vermont sips they’re drink.]
 
 VERMONT
-A fine brew sir. I usually make my own tea at home but this is well done. Is this a popular drink here?
+A fine brew sir. I usually make my own tea at home, but this is well done. Is this a popular drink here?
 
 CYRUS
 Thank you and yeah it is, we usually have a bunch of customers coming in for it. But our most popular drink is our expresso
@@ -258,8 +260,8 @@ People really love their coffee here
 [Cyrus squawk in excitement]
 
 CYRUS
-Would you blame them, its so popular even Kale stops by for her morning brew.
-Havent seen her in a while though, hope she’s okay. Probably meditating in the forest again.
+Would you blame them, it’s so popular even Kale stops by for her morning brew?
+Haven’t seen her in a while though, hope she’s okay. Probably meditating in the forest again.
 
 VERMONT
 You know Kale?
@@ -277,17 +279,17 @@ VERMONT
 Strange that people get so excited over just some coffee.
 
 CYRUS
-Its not JUST any coffee this is an exotic imported coffee from off the island!	Beans grown here are too sweet. Folks really love the new imported brand because its just the right blend of sweet and bitter. [ ] Coffee is one of a kind and were honestly having a hard time keeping our shelves stocked haha
+It’s not JUST any coffee this is an exotic imported coffee from off the island!	Beans grown here are too sweet. Folks really love the new imported brand because it’s just the right blend of sweet and bitter. [ ] Coffee is one of a kind and were honestly having a hard time keeping our shelves stocked ha-ha
 
 [Vermont taps at Player to look down at Cyrus’s feet and take a picture.]
 
 [Picture acquired]
 
 VERMONT
-Do you know where its from?
+Do you know where it’s from?
 
 CYRUS
-Unfortunately, I only know its imported. Though I heard a new coffee plant is being built just off the outskirts of town. Its been pretty empty so Im glad something new is happening around here.
+Unfortunately, I only know it is imported. Though I heard a new coffee plant is being built just off the outskirts of town. It’s been pretty empty so I’m glad something new is happening around here.
 
 MANAGER
 Cyrus, we've got customers coming in!
@@ -300,15 +302,16 @@ That’s my queue. It was nice talking to you all. Enjoy your drink
 [Player: Why did you make me take a picture of their feet?]
 
 VERMONT
-While they are avian, I didn’t want to scare them off by mentioning the murder and showing evidence. 	Dont look at me like that! Its clearly needed for our investigation!	Plus, she’s a civilian. We shouldn’t be running around causing mass panic just because were looking for a murderer. The best thing we can do is to keep the peace as best as we can. 
+While they are avian, I didn’t want to scare them off by mentioning the murder and showing evidence. 	Don’t look at me like that! It’s clearly needed for our investigation!	Plus, she’s a civilian. We shouldn’t be running around causing mass panic just because were looking for a murderer. The best thing we can do is to keep the peace as best as we can. 
                  
                  
 [Player shows pictures side by side]
 
 VERMONT
-The toes on the engraving is vastly different from that young barista. The nails on the print were well trimmed too. While the hunch about the suspect being avian may be leading us in an interesting direction. Were not making much progress…	The barista had mentioned that Kale stops by here after their spa. Kind of grasping at straws here but I think our next best bet is to check it out. 
+The toe on the engraving is vastly different from that young barista. The nails on the print were well trimmed too. While the hunch about the suspect being avian may be leading us in an interesting direction. We’re not making much progress…	The barista had mentioned that Kale stops by here after their spa. Kind of grasping at straws here but I think our next best bet is to check it out. 
 
 CH 2 END
+
 </Text>
         </Document>
         <Document ID="3A87747F-116C-4C9E-B1C7-B07B3C901754">
@@ -322,27 +325,29 @@ CH 2 END
         </Document>
         <Document ID="501A125D-D5D7-49BC-959C-728B361EA002">
             <Title>Chapter 1</Title>
-            <Text>CHAPTER 1
+            <Text>
+
+CHAPTER 1
 
 [Case reading | Mayor’s office, City Hall: 11 PM]
 
-It was a cold windy day as a storm was beginning to brew after a long week of summer head. A silhouette looms behind the mayor’s desk revealing a pale body of the once beloved mayor. That night, the curtains were left open allowing the passionate rain to soak the mayor on the spot. His body was discovered by his daughter Kale who has reached out to him to return for dinner. No evidence was found in the scene of the crime.
+It was a cold windy day as a storm was beginning to brew after a long week of summer head. A silhouette looms behind the mayor’s desk revealing a pale body of the once beloved mayor. That night, the curtains were left open allowing the enthusiastic rain to soak the mayor on the spot. His body discovered by his daughter Kale who has reached out to him to return for dinner. No evidence was discovered in the scene of the crime.
 
 [Scene reveals to be the police station]
 
 CHIEF
-What kind of bastard would do such a thing. 
+What kind of bastard would do such a thing? 
 And here I thought this town was finally getting peaceful. 
 Ma’am, do you remember anything else that night?
 
 MADAM HOPPIN
 Not that I know of my daughter was the one who…found him. 
-I’m sure she can provide more details but, right now… we’d like to be left alone for the time being. Im sure you understand, cheif.
+I am sure she can provide more details but, right now… we would like to be left alone for the time being. I am sure you understand, chief.
 
 CHIEF
 Yes, of course. I understand.
 
-[The chief packs up and heads out to of the room to investigate the area further bu twas stopped by Madam Hoppin. ]
+[The chief packs up and heads out to of the room to investigate the area further but was stopped by Madam Hoppin.]
 
 MADAM HOPPIN
 Chief.
@@ -367,27 +372,27 @@ CHIEF
 
 CHIEF
 ?!
-Oh you, I didn’t see you there. 
+Oh you, I did not see you there. 
 Sorry, my memory is still a bit fuzzy…what was your name again?
 
 [Player inserts name]
 
 CHIEF
 Ah yes, [player]. Your new here, aren’t you? 
-You’ve come at the right time detective. I’m sure you’ve already heard of what happened in city hall… The entire station is backed up and we could you as much help as we can get.
+You have come at the right time detective. I am sure you have already heard of what happened in city hall… The entire station is backed up and we could you as much help as we can get.
 
 [Player Options #2] 
 
 Chief [ If options 1 or 2]
 
-CHIEF [IF OPTION 3]:	?! I will not tolerate such disrespect in my office. The force has been working hard to ensure that the townsfolk feel safe for generations to come. And I won’t allow some spoiled, asshole from the city poison this town’s safety with your attitude.
+CHIEF [IF OPTION 3]:	?! I will not tolerate such disrespect in my office. The force has been working hard to ensure that the townsfolk feel safe for generations to come. And I will not allow some spoiled, asshole from the city poison this town’s safety with your attitude.
 
-CHIEF [AFTERWARDS]:	Anyway, your still new here so I can’t just trust a new detective from the academy for such a hefty case. Here take this, I need you to go to this address and look for this person. They just got off retirement but the best person for this job. I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. Will you, do it?
+CHIEF [AFTERWARDS]:	Anyway, your still new here so I cannot just trust a new detective from the academy for such a hefty case. Here take this, I need you to go to this address and look for this person. They just got off retirement but the best person for this job. I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. Will you, do it?
 
 [IF PLAYER AGREES]
 
 CHIEF
-Perfect, knew I can count on you! Good luck and don’t let me down. 
+Perfect, knew I can count on you! Good luck and do not let me down. 
 
 [ Case File received.]
 
@@ -395,12 +400,12 @@ Panel 1: Vermont's Garden
 
 [Pans to the street sign with address in case] 
 
-[ It was bright, clear sky on this wonderful Saturday morning. Lush fruitful trees, colorful flowers dancing in the wind, not a worry in sight on this beautiful day. ]
+[ It was bright, open sky on this wonderful Saturday morning. Lush fruitful trees, colorful flowers dancing in the wind, not a worry in sight on this beautiful day.]
 
 [PLAYER]
 This must be the place.
 
-[ The player walks up to a beautiful garden with trees and flowers of many a variety. Curious they stop to smell the flowers and appreciate the scenery. ]
+[ The player walks up to a beautiful garden with trees and wide variety of flowers. Curious they stop to smell the flowers and appreciate the scenery.]
 
 ??:	
 Enjoying the Magnolias?
@@ -408,14 +413,14 @@ Enjoying the Magnolias?
 [PLAYER]
 ?!
 
-[A tall elderly badger appeared behind you. They’re wearing a flowery apron and wreak of roses.]
+[A tall elderly badger appeared behind you. They are wearing a flowery apron and wreak of roses.]
 
 ??
 Those are magnolias, one of my prized flowers. 
 They were a gift from an old friend.
 
 [PLAYER]
-They are gorgeous, I don’t think I’ve seen these types of flowers on the island.
+They are gorgeous, I do not think I have seen these types of flowers on the island.
 
 ??
 Excellent observation, they are native on another island not too far from here, but I do appreciate the compliment, [ Player].
@@ -424,17 +429,17 @@ Excellent observation, they are native on another island not too far from here, 
 How did you???
 
 ??
-	It’s a small town. Its not hard to know who is who around here. 
-Oh, mind my manners, I’m Vermont the owner of this garden.
+	It is a small town. It is not hard to know who is ‘who’ is around here. 
+Oh, mind my manners, I am Vermont the owner of this garden.
 
 [PLAYER]
-I’m Detective [Player].
+I am Detective [Player].
 
 VERMONT
 Pleasure to meet you detective [Player]. What brings you here?
 
 [PLAYER]
-I’m here under order from chief to deliver this to this address. 
+I am here under order from chief to deliver this to this address. 
 
 [Vermont receives the case papers]
 
@@ -443,7 +448,7 @@ VERMONT
 Would you like some lemonade? Walking here must have been exhausting and I could use a glass myself.
 
 [PLAYER]
-I’m sorry, madam but my orders were to give this to you.
+I am sorry, madam but my orders were to give this to you.
  I should return to the station
 
 VERMONT
@@ -457,21 +462,21 @@ I insist please come in
 I appreciate the hospitality but…
 
 VERMONT
-You need help with the mayor’s murder case?
+Do you need help with the mayor’s murder case?
 
 [PLAYER]
-The chief doesn’t trust me with a case this big, so they’re requesting help from you it seems.
+The chief does not trust me with a case this big, so they are requesting help from you it seems.
 
 VERMONT
-I see, I’m sorry but I can’t take the case. I’m retired and have been out of the field for years. I came to this town to finally find some peace. Please tell your Chief that I respectfully decline. This is none of my business and I don’t want anymore stress in my life.
+I see, I am sorry but I can’t take the case. I am retired and have been out of the field for years. I came to this town to finally find peace. Please tell your Chief that I respectfully decline. This is none of my business and I do not want any more stress in my life.
 
 [PLAYER]
-Please ma’am. This isn’t just a regular case; the livelihood of the whole town is at stake. 
+Please ma’am. This is not just a regular case; the livelihood of the whole town is at stake. 
 
-[The player and Vermont are interrupted by MADAM HOPPIN who appears with several bodyguards standing right by the room door]
+[The player and Vermont were interrupted by MADAM HOPPIN who appears with bodyguards standing right by the room door]
 
 MADAM HOPPIN
-I’m afraid the young detective is correct.
+I am afraid the young detective is correct.
 
 BOTH VERMONT AND PLAYER
 	?!
@@ -483,32 +488,33 @@ And I fear things are getting worse.
 [MADAM HOPPIN gives more reports of missing people in town]
                  
 MADAM HOPPIN
-People are going Missing Vermont and the police…they wont disclose this to the public but even they are fearful of their own lives to do anything about it. 
+People are going Missing Vermont and the police…they will not disclose this to the public but even they are fearful of their own lives to do anything about it. 
 
 VERMONT
 This has nothing to do with me.
 
 MADAM HOPPIN
-That may be so, but this isn’t just a regular late night bar quarrel. This is real, Vermont. If the police won’t do anything, I can only trust a true professional to handle this case. You came to this town to finally have your freedom and I respect that but please, please help us Inspector Vermont.
+That may be so, but this is not just a regular late night bar quarrel. This is real, Vermont. If the police will not do anything, I can only trust a true professional to manage this case. You came to this town to finally have your freedom and I respect that but please, please help us Inspector Vermont.
 
 [ Vermont reflects on the decision and looks at MADAM HOPPIN who reminds her of her ex-wife and stands up]
 
 VERMONT
-MADAM HOPPIN. I humbly accept your case. Ill do whatever I get to the bottom of it.
+MADAM HOPPIN. I humbly accept your case. I will do whatever I get to the bottom of it.
 
 MADAM HOPPIN
 Thank you…Thank you Inspector...
 
-[Player looks on and was stopped by Vermont]
+[Player looks on and was interrupted by Vermont]
 
 VERMONT
-[Player] would you like to join me on this case? Ill need the help of familiar face if we are to get to the bottom of this.
+[Player] would you like to join me on this case? I will need the help of familiar face if we are to get to the bottom of this.
 
 [Player hesitates but agrees]
 
 [ Vermont dawns their coat and join the player as they return to city hall to begin their investigation]
 
 CHAPTER 1 END 
+
 </Text>
         </Document>
         <Document ID="57A7943B-C894-40EB-A13E-7F729939846D"/>
