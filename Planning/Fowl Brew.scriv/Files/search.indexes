@@ -8,6 +8,9 @@
     Paige is very nonchalant but loves Japser to death, theyve know n each other since college
     Tenant at Orion's condo and friends with Monty</Synopsis>
         </Document>
+        <Document ID="12AC732D-CE0E-4C94-AEC9-06A136168F5F">
+            <Title>PLAYER OPTION 1</Title>
+        </Document>
         <Document ID="14AFD39A-E497-4491-9932-77A4A4D854D2">
             <Title>Mayor Hoppins (Arthur J Hoppins)</Title>
             <Synopsis>Mayor Hoppin - General from Hellsing 
@@ -15,6 +18,9 @@
     A married man who had a wife and 3 kids
     Hard headed, family man who inherited the position
     Had a dream of becoming a pilot</Synopsis>
+        </Document>
+        <Document ID="17D19960-7A9F-4C5A-A299-A195DFD2CEAD">
+            <Title>PLAYER OPTION 1</Title>
         </Document>
         <Document ID="19CCF9FD-4C1A-4882-8440-D94FA62C2588">
             <Title>Vermont</Title>
@@ -35,63 +41,74 @@
         <Document ID="2347FF6A-A9A9-4E4F-8AEE-F1D57BD778D3"/>
         <Document ID="36BCD383-176F-4193-A957-4BFEA4C23649">
             <Title>Chapter 2</Title>
-            <Text>
-
-CHAPTER 2
+            <Text>CHAPTER 2
 
 [City Hall in the Mayor’s room. Scene of the crime, player and Vermont are in the mayor’s office. The three are standing over an outline of where Hoppins was found with other officers in the background.]
 
 VERMONT
-…I’m sorry things had to end this way, Hoppin… 
+…I’m sorry things had to end this way, Arthur… 
 Madam, was there anyone else here at the scene of the crime?
 
-MADAM HOPPIN
-My daughter Kale was the one who found him here. I’m sure she could help with that.
+MADAM HOPPINS
+My daughter Kale was the one who found him here. 
+I’m sure she could help with that.
 
 KALE
 …
                  
 VERMONT
-Hello there, I’m Inspector Vermont. You must be Kale, it’s a pleasure to meet you.
+Hello there, I’m Inspector Vermont. 
+You must be Kale, it’s a pleasure to meet you.
 
 KALE
 …
                  
-MADAM HOPPIN
-It’s okay dear, they’re only here to help. Would you like to speak to the detectives? Or would you like to go outside?
+MADAM HOPPINS
+It’s okay dear, they’re only here to help. 
+Would you like to speak to the detectives?
 
 KALE
-	I’m ok with talking to them. I want to help with this case too.
+	I’m okay with talking to them. 
+I want to help with this case too.
 
-MADAM HOPPIN
+MADAM HOPPINS
 Thank you dear, if you ever get uncomfortable just let me know.
 
 [ OPTIONS: Mayor Hoppins | Did you see anyone?]
                  
 KALE [1]:
-You mean my dad? That night, it was getting close to midnight so my mom told me to get my dad so we can all eat at the dinner table. When I got there the room was dark and the windows were open so there were puddles of water all over the floor. I figured dad must’ve fallen asleep at his desk again, so I went to close the windows and wake him up…I tried nudging him to wake him up, but he didn’t move. His body flipped to the side, and he was limp without a sign of life in his eyes. I rushed to mom and that was all I saw.
+You mean my dad? 
+That night, it was getting close to midnight so my mom told me to get my dad so we can all eat at the dinner table. 
+When I got there, the room was dark and the windows were open so there were puddles of water all over the floor. 
+I figured dad must’ve fallen asleep at his desk again, so I went to close the windows and wake him up…I tried nudging him to wake him up, but he didn’t move. 
+His body flipped to the side, and he was limp without a sign of life in his eyes. 
+I ran to mom and that was all I saw.
 
 KALE [2]
 When I went to check on him, I didn’t notice anyone there at the time. All I remember was seeing him…lying there.
+
+KALE[3]
+I don’t feel so good…
 
 VERMONT
 I’m so sorry to hear that.
 
 KALE
-	I have to go…
+	Sorry, Detective…I have to go…
 
 [Kale leaves the room]
 
-MADAM HOPPIN
-She’s going through a lot right now, please forgive her
+MADAM HOPPINS
+She’s going through a lot right now, please forgive her.
 
 VERMONT
-It’s not a problem Ms. Hoppins. I’m sure this must’ve been a lot to take in on a regular night. [Player] and I will inspect the area for clues.
+It’s not a problem Ms. Hoppins. I’m sure this must’ve been a lot to take in on a regular night. 
+[Player] and I will inspect the area for clues.
 
-MADAM HOPPIN
+MADAM HOPPINS
 Of course, I shall leave it to you both
 
-[MADAM HOPPIN leaves the office for the two to inspect the area]
+[MADAM HOPPINS leaves the office for the two to inspect the area]
 
 [OPTIONS: Window | Door | Desk | Bookshelves | Floor]
 
@@ -109,23 +126,31 @@ I think that should be everything, let’s see if we can find anyone else to spe
 
 [Player gets option to go outside if needed]
 
-Panel 1: The Drive through
+Panel 1: The Parking Lot
 
 VERMONT
-Huh…No one’s here. Well since were already outside let’s see if we can find anything out of place. The mayor’s office is just above here so the culprit must have jumped through the window and landed here.
+Huh…No one’s here. Well since were already outside let’s see if we can find anything out of place. 
+The mayor’s office window is just above here so the culprit must have jumped through the window and landed here.
 
 [Player has option to scout the area. If sidewalk is chosen:]
 
 VERMONT
 Did you find something?
 ?!	
-A foot prints. And it looks like it got engraved in the cement
+A foot prints. And it looks like its engraved in the cement, and from the looks of it… this print is right above the window.
 
 ??
 Hey you there! You can’t be here.
 
 VERMONT
-Apologies, who might you be?
+Apologies for the disturbance, were here on behalf of a request from the mayor’s wife. We wont be long. 
+
+??
+The Hoppins’ huh?
+Well, im under a request from the Hoppins too, fixin’ that there sidewalk. 
+
+VERMONT
+Im sorry, and who might you be?
 
 DIESEL
 Diesel, a contractor, I work here. And you are?
@@ -134,24 +159,29 @@ VERMONT
 I’m Inspector Vermont and this is my partner [Player]	Were here to…
 
 DIESEL
-I’m going to have to stop you right there. I heard about the mayor and the whole kerfuffle but you’re stepping on wet cement their bud.
+I’m going to have to stop you right there. 
+I heard about the mayor and the whole kerfuffle but you’re stepping on wet cement there bud.
 
-[Vermont scrambles to get out and wipe their hooves]
+[Vermont scrambles to get out and wipe their feet]
 
 DIESEL
-No one reads the signs these days. It’s bad enough I have to lay a fresh coat after some idiot messed up the last one.
+No one reads the signs these days. 
+It’s bad enough I have to lay a fresh coat after some idiot messed up the last one.
 
 VERMONT
 You mean the footprint?
 
 DIESEL
-Yeah, see. The sidewalk needs a bit of polishin.’ People have been complaining nowadays so I was hired to rework the thing.
+Yeah, see. 
+The sidewalk needs a bit of polishin.’
+People have been complaining nowadays about tripping on the thing they hired me to fix it.
 
 [Player Options: Where were you | Who do you work for?]
 
 DIESEL
 [If asked: Who do you work for?]	
-Listen pal, enough with the questions. I’m just here to grab my coffee, lay out cement and go home. Don’t want any part of this mayor thing
+Listen pal, enough with the questions. 
+I’m just here to grab my coffee, lay out cement and go home. Don’t want any part of this mayor thing.
 
 VERMONT
 I understand. Could we perhaps keep this piece here?
@@ -162,7 +192,8 @@ Do whatever you want, just get out of here.
 [Player receives footprint and gets kicked out to the city street]
 
 VERMONT
-Well, that was pleasant. I know I’m new here, but I’ve never seen their face before.	At least we retrieved more evidence, we couldn’t find anything else on the scene….
+Well, that was pleasant. I know I’m new here, but I’ve never seen their face before.
+No matter, the footprint we retrieved seems to have come from someone of the avian kind. This is just a hunch but we need to look into this a bit further. That Diesel guy seems a bit suspicious but with this clue, things don’t really add up on his end. 
 
 [Player has a chance to look through evidence]
 
@@ -170,7 +201,7 @@ VERMONT
 All we have are a few coffee beans and a footprint. 
 Given from the looks of it the culprit must have been an avian of some kind. 
 
-[Player: Let’s stop at the café]
+[Player Option 3]
 
 VERMONT
 Your right, no sense standing here thinking.
@@ -180,18 +211,20 @@ Panel 1: Wild Roost Cafe
 [The player and Vermont enter the café and gets started by a loud squawk]
 
 ??
-Number 94, Caramel Latter extra cream hold the sugar!
+Number 94, Caramel Latte, extra cream, hold the sugar!
 
 VERMONT
-Wow wasn’t what I was prepared for.
+??
 
 [A chatty barista is spotted behind the register]
 
 CYRUS
-There you go Ma’am, thank you for coming to the Wild Roost, enjoy your day! Next in line!
+There you go Ma’am, thank you for coming to the Wild Roost, enjoy your day! 
+Next in line!
 
 VERMONT
-Hi, Can I have a Large Green tea, no sugar please. What would you like [Player]
+Hi, Can I have a Large Green tea, no sugar please. 
+What would you like [Player]
                  
 [Player] will have [ Choice]
 
@@ -199,10 +232,11 @@ CYRUS
 Sure thing, would you like this for here or to-go?
 
 VERMONT
-Here please
+Here please.
 
 CYRUS
-Here's your number, we’ll deliver your order to your seat when ready!
+Alrighty!
+Here's your number, feel free to have a seat and we’ll let you know when your order’s ready!
 
 VERMONT
 Thank you
@@ -212,18 +246,19 @@ Thank you
 VERMONT
 Not a fan of coming to this place, it smells weird.
 
-[Player: Smells fine to me. | Is it the coffee | That’s weird]
+[Player OPTIONS 4]
 
 VERMONT
-I’ve been here before since I moved.
-For some reason, the coffee just wreaks… I’ve had coffee elsewhere, but this café is just, not for me	Although that barista… noticed anything weird about them [Player]
+I’ve only visited Wild Roost once since ive moved to the island. 
+For some reason, the coffee just wreaks… I’ve had coffee elsewhere, but this café is just, not for me	
+Although that barista… noticed anything weird about them [Player]?
 
-[Player mentions their feet]
+[Player OPTION 4, #2: mentions their feet]
 
 VERMONT
 Precisely, they’re an avian with a similar footprint to the evidence we retrieved at Town Hall. We should speak to them
 
-[Player: We should leave them alone | Invite them to the table | Just enjoy your drink]
+[Player OPTION 6]
 
 CYRUS
 There you go, one green tea and a [Drink choice]
@@ -235,51 +270,65 @@ CYRUS
 Oh, thank you I did, I’ve been working on my technique since I started working here *squawk*
 
 VERMONT
-Please, do take a seat with us. We’d love to learn more.
+Please, do take a seat with us. 
+We’d love to learn more.
 
-[Cyrus hesitates]
+[Cyrus hesitates momentarily but eagerly sits down ready to share his knowledge on coffee]
 
 CYRUS
-I should probably get back, there’s probably a few customers waiting in line.
+I probably shouldn’t stay too long, I am in the middle of my shift… there’s probably a few customers waiting in line too.
 
 VERMONT
-It seems it’s just us. I insist.
+It seems it’s just us for the time being. I insist.
 
 [Cyrus squawks then take a seat]
 [Vermont sips they’re drink.]
 
 VERMONT
-A fine brew sir. I usually make my own tea at home, but this is well done. Is this a popular drink here?
+I usually make my own tea at home, but this is well done. 
+Is this a popular drink here?
 
 CYRUS
-Thank you and yeah it is, we usually have a bunch of customers coming in for it. But our most popular drink is our expresso
+Thank you and yeah it is, we usually have a bunch of customers coming in for it. 
+But our most popular drink is our espresso.
 
 VERMONT
-People really love their coffee here
+People really love their coffee.
 
 [Cyrus squawk in excitement]
 
 CYRUS
-Would you blame them, it’s so popular even Kale stops by for her morning brew?
-Haven’t seen her in a while though, hope she’s okay. Probably meditating in the forest again.
+Would you blame them, it’s so popular even Kale Hoppins stops by for her morning brew!
+Haven’t seen her in a while though, hope she’s okay. 
+Probably running around the woods again.
 
 VERMONT
 You know Kale?
 
 CYRUS
-Yeah, she’s a regular here! 	We chat every now and then, she usually stops by after visiting the salon across the street. 
+Yeah, she’s a regular here!
+We chat every now and then, she usually stops by after visiting the salon across the street. On my morning hikes, shes usually hanging out in the trees too, living her best life.
 
 VERMONT
 You watched her cross the street?
 
 CYRUS
-Well yeah, it is a glass window. Usually see people pass by all the time, some even stop by to get a drink.
+Well yeah, it is a glass window. 
+Usually see people pass by all the time, some even stop by to get a drink.
 
 VERMONT
 Strange that people get so excited over just some coffee.
 
 CYRUS
-It’s not JUST any coffee this is an exotic imported coffee from off the island!	Beans grown here are too sweet. Folks really love the new imported brand because it’s just the right blend of sweet and bitter. [ ] Coffee is one of a kind and were honestly having a hard time keeping our shelves stocked ha-ha
+It’s not JUST any coffee this is an exotic imported coffee from off the island!
+Beans grown here are too sweet. Folks really love the new imported brand because it’s just the right blend of sweet and bitter. 
+R.A Coffee is one of a kind and were honestly having a hard time keeping our shelves stocked ha-ha
+
+VERMONT
+R.A?
+
+Cyrus
+Its short for Raven’s Ash. Funny sounding name so people just say RAH, instead!
 
 [Vermont taps at Player to look down at Cyrus’s feet and take a picture.]
 
@@ -289,17 +338,21 @@ VERMONT
 Do you know where it’s from?
 
 CYRUS
-Unfortunately, I only know it is imported. Though I heard a new coffee plant is being built just off the outskirts of town. It’s been pretty empty so I’m glad something new is happening around here.
+I only know it is imported. 
+Though I heard a new coffee plant is being built just off the outskirts of town. 
+It’s been pretty empty so I’m glad something new is happening around here.
 
 MANAGER
 Cyrus, we've got customers coming in!
 
 CYRUS
-That’s my queue. It was nice talking to you all. Enjoy your drink
+That’s my queue. It was nice talking to you all. 
+Enjoy your drink
 
 [Cyrus leaves the table.]
 
-[Player: Why did you make me take a picture of their feet?]
+[Player]
+Why did you make me take a picture of their feet?
 
 VERMONT
 While they are avian, I didn’t want to scare them off by mentioning the murder and showing evidence. 	Don’t look at me like that! It’s clearly needed for our investigation!	Plus, she’s a civilian. We shouldn’t be running around causing mass panic just because were looking for a murderer. The best thing we can do is to keep the peace as best as we can. 
@@ -310,12 +363,15 @@ While they are avian, I didn’t want to scare them off by mentioning the murder
 VERMONT
 The toe on the engraving is vastly different from that young barista. The nails on the print were well trimmed too. While the hunch about the suspect being avian may be leading us in an interesting direction. We’re not making much progress…	The barista had mentioned that Kale stops by here after their spa. Kind of grasping at straws here but I think our next best bet is to check it out. 
 
-CH 2 END
+CHAPTER 2 END
 
 </Text>
         </Document>
         <Document ID="3A87747F-116C-4C9E-B1C7-B07B3C901754">
             <Title>Chapter [BONUS]</Title>
+        </Document>
+        <Document ID="43B67C49-F74C-4D3D-9017-8736FE069F72">
+            <Title>PLAYER OPTION 1</Title>
         </Document>
         <Document ID="4E3343C6-92B6-4572-9FA8-9872514DF378">
             <Title>2. Option</Title>
@@ -535,7 +591,67 @@ CHAPTER 1 END
         </Document>
         <Document ID="57A7943B-C894-40EB-A13E-7F729939846D"/>
         <Document ID="5AD4DC31-DA44-45A8-84EB-A91BE701E656">
-            <Title>Sub Dialogie Options CH2</Title>
+            <Title>PLAYER OPTION 1</Title>
+            <Synopsis>- Mayor Hoppins | Did you see anyone? | How are you feeling?</Synopsis>
+        </Document>
+        <Document ID="5EDD9A21-8985-497D-9A81-56D3DB8D4A98">
+            <Title>Player Options CH2</Title>
+            <Text>Player Option 1
+- Mayor Hoppins | Did you see anyone? | How are you feeling?
+                                                                                                    
+OPTIONS DURING ROOM INVESTIGATION
+Window - Closed. Probably hasn’t been open since last night. The curtains are drenched 	from the rain.
+Door - Just a regular door.
+Desk - The desk where The Mayor was found. I’m sorry things had to end this way Arthur…
+Bookshelf - Bookshelves containing documents about the town and its residence. There are also guides on aviation. The mayor must have loved studying this stuff.
+Floor - PROCEED TO MAIN LINE
+                                                                                                    
+[After speaking to Kale the Player will have the option to visit several locations]
+                                                                                                    
+PLAYER OPTION 2
+Who do you work for? - PROCEED TO MAIN LINE
+How long have you been here?
+	Just got off my break so Id say all day.
+Do you know the Mayor?
+	I don’t know the guy himself but Ive seen him and his family take a few walks around town. Seems like a nice guy but I ain’t the social kind.
+
+ 	
+PLAYER OPTION 3
+- Let’s take a break, I know somewhere we can relax for a while. - Proceed to main line
+                                                                                                    
+PLAYER  DRINK CHOICES
+- Chai tea latte
+- Espresso
+- Matcha Green Tea
+- Water
+                                                                                                    
+PLAYER OPTIONS 4
+- Smells fine to me.
+- Its probably just the coffee
+- Your probably just over thinking things.
+                                                                                                    
+PLAYER OPTIONS 5
+- Its a little empty here.
+	Vermont: Well yes, but not exactly what I was thinking. Its a small town so having 		so few customers stop by would be the norm I suppose.
+- They’re a parrot?
+                                                                                                    
+PLAYER OPTIONS 6
+- We should leave them alone.
+	Vermont: Perhaps your right in any other given situation but we need as much 			evidence as we can to solve Arthur’s case [Player] by any means necessary.
+- Invite them to the table
+	PROCEED TO MAIN LINE
+- Relax detective, you need a break.
+                                                                                                    
+PLAYER OPTIONS 4
+- Smells fine to me.
+- Its probably just the coffee
+- Your probably just over thinking things.
+                                                                                                    
+PLAYER OPTIONS 4
+- Smells fine to me.
+- Its probably just the coffee
+- Your probably just over thinking things.
+</Text>
         </Document>
         <Document ID="65F89DD1-0B2D-43F2-AB4E-659896EEF1B9">
             <Title>Chapter 5</Title>
@@ -1540,6 +1656,9 @@ Suspects and Allies
     Used to date Madam Hoppins years ago </Text>
         </Document>
         <Document ID="8A2FFECA-5359-418A-A006-C64318D81F2A"/>
+        <Document ID="941D9B3A-AB5D-412A-BA3E-4D633B688507">
+            <Title>PLAYER OPTION 1</Title>
+        </Document>
         <Document ID="946F7C63-D18E-4729-84D8-D37DA8D846D6">
             <Title>Monty</Title>
             <Synopsis>- Monty - Shark
@@ -3080,14 +3199,20 @@ THE END
             <Title>Option 1</Title>
             <Synopsis>- Orion</Synopsis>
         </Document>
+        <Document ID="99A75108-F69B-4736-ABD5-7E7C418001D4">
+            <Title>PLAYER OPTION 1</Title>
+        </Document>
+        <Document ID="A4EEAF39-F3E7-42F6-83AF-48BB17C13B71">
+            <Title>PLAYER OPTION 1</Title>
+        </Document>
         <Document ID="B1A64F62-7D13-4519-A96E-606131A86436">
             <Title>Items Received</Title>
             <Text>MAIN CLUES
-- Case File  = Received from Madam Hoppins [CH1]
+- Case File  = Received from Madam Hoppins [CH 1]
 	Case #926 - Hoppins Residence
 		The body of Arthur J Hoppins found at 11:23PM within the Hoppins residence at 				town hall. Autopsy reports that he died of suffocation after choking on a meal.
 
-- Footprint = From the scene of the crime
+- Footprint = From the scene of the crime [CH 2]
 	Four toed footprint engraved in a slab of dried cement. This sample was found in the 			Town Hall Parking lot. 
 
 - Coffee grinds = Found outside the room where the mayor was murdered [ CH 2]
@@ -3103,6 +3228,9 @@ THE END
 	Torn Cease and Desist Order sent to Orion with a signature confirmed to be from the 			late Mayor Hoppins
 
 </Text>
+        </Document>
+        <Document ID="B6D040E8-9112-40E1-8602-1438236C3FC3">
+            <Title>PLAYER OPTION 1</Title>
         </Document>
         <Document ID="BAD8CAD0-4FD2-48AC-B017-4BB99AE07A78">
             <Title>Kale Hoppins</Title>
@@ -3611,6 +3739,7 @@ Town: Greater Niles
 Cafe: Wild Roost
 Condos: Crow’s Nest
 Condo: Big Beak
+Coffee Brand : Raven’s Ash
 
 - Vermont's Garden
 - Vermont's Hut
