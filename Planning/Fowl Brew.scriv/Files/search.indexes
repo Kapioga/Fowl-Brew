@@ -340,7 +340,7 @@ What kind of bastard would do such a thing?
 And here I thought this town was finally becoming peaceful for a change. 
 Ma’am, do you remember anything else from that night?
 
-MADAM HOPPIN
+MADAM HOPPINS
 Not that I know of… my daughter was the one who found him…
 I am sure she can provide more details but, right now… we would like some alone time.
 I am sure you understand, chief.
@@ -348,15 +348,15 @@ I am sure you understand, chief.
 CHIEF
 Yes, of course. I understand.
 
-[The chief packs up and heads out to of the room to investigate the area further but was stopped by Madam Hoppin.]
+[The chief packs up and heads out to of the room to investigate the area further but was stopped by Madam Hoppins.]
 
-MADAM HOPPIN
+MADAM HOPPINS
 Chief.
 
 CHIEF
 Yes, Madam?
 
-MADAM HOPPIN
+MADAM HOPPINS
 The person who’s done this has disrupted the balance of not only this town but the lives of this family. My husband was a peaceful man who saw potential in this town and cared for its townsfolk as if they were his own family.  I want you to find whoever did this and see that they receive the same punishment by any means necessary.
 
 CHIEF
@@ -366,7 +366,7 @@ Understood.
 
 CHIEF
 …Unbelievable. 
-First people in town have gone missing and now the mayor?!
+First, folks in town have gone missing and now the mayor?!
 Things are getting out of hand.
 
 [The chief looks at the piles of papers stacked on their desks looking defeated]
@@ -382,20 +382,29 @@ Sorry, my memory is still a bit fuzzy…what was your name again?
 
 CHIEF
 Ah yes, [player]. Your new here, aren’t you? 
-You have come at the right time detective. I am sure you have already heard of what happened in city hall… The entire station is backed up and we could you as much help as we can get.
+You have come at the right time, detective. 
+I am sure you have already heard of what happened in city hall… 
+The entire station is backed up and we could you as much help as we can get.
 
 [Player Options #2] 
 
 Chief [ If options 1 or 2]
 
-CHIEF [IF OPTION 3]:	?! I will not tolerate such disrespect in my office. The force has been working hard to ensure that the townsfolk feel safe for generations to come. And I will not allow some spoiled, asshole from the city poison this town’s safety with your attitude.
+CHIEF [IF OPTION 3]:
+	?! I will not tolerate such disrespect in my office. The force has been working hard to ensure that the townsfolk feel safe for generations to come. And I will not allow some spoiled, asshole from the city poison this town’s safety with your attitude.
 
-CHIEF [AFTERWARDS]:	Anyway, your still new here so I cannot just trust a new detective from the academy for such a hefty case. Here take this, I need you to go to this address and look for this person. They just got off retirement but the best person for this job. I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. Will you, do it?
+CHIEF [AFTERWARDS]:
+Anyway, your still new here so I cannot just trust a new detective from the out of town for such a hefty case. 
+Here take this, I need you to go to this address and look for this person. 
+They just retirement but given their track record, would be the best person for this job. 
+I need you to track them down and make them take the case. With all the distractions we have at the station, we need a seasoned point of view to solve this case. 
+Will you, do it?
 
 [IF PLAYER AGREES]
 
 CHIEF
-Perfect, knew I can count on you! Good luck and do not let me down. 
+Perfect, knew I can count on you! 
+Good luck and DON’T let me down. 
 
 [ Case File received.]
 
@@ -416,7 +425,7 @@ Enjoying the Magnolias?
 [PLAYER]
 ?!
 
-[A tall elderly badger appeared behind you. They are wearing a flowery apron and wreak of roses.]
+[A tall elderly lion appeared behind you. They are wearing a flowery apron and wreak of roses.]
 
 ??
 Those are magnolias, one of my prized flowers. 
@@ -433,7 +442,7 @@ How did you???
 
 ??
 	It is a small town. It is not hard to know who is ‘who’ is around here. 
-Oh, mind my manners, I am Vermont the owner of this garden.
+Oh, where are my manners, I am Vermont the owner of this garden.
 
 [PLAYER]
 I am Detective [Player].
@@ -471,41 +480,45 @@ Do you need help with the mayor’s murder case?
 The chief does not trust me with a case this big, so they are requesting help from you it seems.
 
 VERMONT
-I see, I am sorry but I can’t take the case. I am retired and have been out of the field for years. I came to this town to finally find peace. Please tell your Chief that I respectfully decline. This is none of my business and I do not want any more stress in my life.
+I see, I am sorry but I can’t take the case. 
+I have retired and have been out of the field for years. I came to this town to get away from it all and relax after all these years. Apologies, but you will have to notify your chief that I must deny this request. 
 
 [PLAYER]
-Please ma’am. This is not just a regular case; the livelihood of the whole town is at stake. 
+Please ma’am. 
+This is not just a regular case; the livelihood of the whole town is at stake. 
 
-[The player and Vermont were interrupted by MADAM HOPPIN who appears with bodyguards standing right by the room door]
+[The player and Vermont were interrupted by MADAM HOPPINS who appears with bodyguards standing right by the room door]
 
-MADAM HOPPIN
+MADAM HOPPINS
 I am afraid the young detective is correct.
 
 BOTH VERMONT AND PLAYER
 	?!
 
-MADAM HOPPIN
+MADAM HOPPINS
 The townsfolk are feeling restless after the assassination of my husband. 
 And I fear things are getting worse.
 
-[MADAM HOPPIN gives more reports of missing people in town]
+[MADAM HOPPINS gives more reports of missing people in town]
                  
-MADAM HOPPIN
+MADAM HOPPINS
 People are going Missing Vermont and the police…they will not disclose this to the public but even they are fearful of their own lives to do anything about it. 
 
 VERMONT
 This has nothing to do with me.
 
-MADAM HOPPIN
-That may be so, but this is not just a regular late night bar quarrel. This is real, Vermont. If the police will not do anything, I can only trust a true professional to manage this case. You came to this town to finally have your freedom and I respect that but please, please help us Inspector Vermont.
+MADAM HOPPINS
+That may be so, but this is not just a regular late night bar quarrel. 
+This is real, Vermont. If the town’s police are too busy to do anything, I can only trust a true professional to manage this case. You came to this town to finally have your freedom and I respect that but please, please help us Inspector Vermont.
 
-[ Vermont reflects on the decision and looks at MADAM HOPPIN who reminds her of her ex-wife and stands up]
+[ Vermont reflects on the decision and looks at MADAM HOPPINS who reminds her of her ex-wife and stands up]
 
 VERMONT
-MADAM HOPPIN. I humbly accept your case. I will do whatever I get to the bottom of it.
+MADAM HOPPINS... Ill investigate this case, rest assured. I will do whatever I get to the bottom of it.
 
-MADAM HOPPIN
-Thank you…Thank you Inspector...
+MADAM HOPPINS
+Thank you…
+Thank you Inspector...
 
 [Player looks on and was interrupted by Vermont]
 
@@ -1465,7 +1478,7 @@ THE END
 -Detective Player 
 	Main character
 
-- Inspector Vermont (Badger) - Insp: Sly Cooper
+- Inspector Vermont (Lion) - Insp: Sly Cooper
     A hard eye investigator with over 50 years experience working in the field
     Ex-botanist and sleuth
     Smart, sly and unassuming, endearing
