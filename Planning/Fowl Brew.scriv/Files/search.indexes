@@ -9,7 +9,7 @@
     Tenant at Orion's condo and friends with Monty</Synopsis>
         </Document>
         <Document ID="14AFD39A-E497-4491-9932-77A4A4D854D2">
-            <Title>Mayor Hoppin</Title>
+            <Title>Mayor Hoppins (Arthur J Hoppins)</Title>
             <Synopsis>Mayor Hoppin - General from Hellsing 
     The mayor of the small town of Patch
     A married man who had a wife and 3 kids
@@ -365,7 +365,9 @@ Understood.
 [Chief leaves city hall to return to the police station]
 
 CHIEF
-…Unbelievable. Were already piled on with missing cases and now the mayor... Things are getting out of hand.
+…Unbelievable. 
+First people in town have gone missing and now the mayor?!
+Things are getting out of hand.
 
 [The chief looks at the piles of papers stacked on their desks looking defeated]
 
@@ -1487,6 +1489,8 @@ THE END
     Incredibly smart and oddly the most popular sibling of the bunch
 
 Suspects and Allies
+- Cheif - Skunk
+	Head of the police department
 
 - Diesel - Alligator
     Alligator bodyguard for Orion
@@ -1522,6 +1526,7 @@ Suspects and Allies
     Old friend of Hoppins and possibly the nicest man on the island
     Used to date Madam Hoppins years ago </Text>
         </Document>
+        <Document ID="8A2FFECA-5359-418A-A006-C64318D81F2A"/>
         <Document ID="946F7C63-D18E-4729-84D8-D37DA8D846D6">
             <Title>Monty</Title>
             <Synopsis>- Monty - Shark
@@ -3065,29 +3070,29 @@ THE END
         <Document ID="B1A64F62-7D13-4519-A96E-606131A86436">
             <Title>Items Received</Title>
             <Text>MAIN CLUES
-- Case File  = Received from Madam Hoppin [CH1]
+- Case File  = Received from Madam Hoppins [CH1]
+	Case #926 - Hoppins Residence
+		The body of Arthur J Hoppins found at 11:23PM within the Hoppins residence at 				town hall. Autopsy reports that he died of suffocation after choking on a meal.
 
-- Footprint = From the scnene of the crime
+- Footprint = From the scene of the crime
+	Four toed footprint engraved in a slab of dried cement. This sample was found in the 			Town Hall Parking lot. 
 
 - Coffee grinds = Found outside the room where the mayor was murdered [ CH 2]
+	Coffee grinds found on the mayor’s table at the scene of the crime. These grinds have 			an unusually strong smell.
 
-- Coffee samples = Gotten from teh cafe
-
-- Nail file = Item from the salon
-
-- Smelly bag = Found at the pier
-
-- Dried cement wit ha scale on it = Found at the salon
+- Coffee samples = Gotten from the cafe
+	Coffee samples received from Cyrus. These grinds have a strong unusual smell. 
 
 - Fiber pills = Found after talking to Orion
+	Pills containing dried husks condensed into a pill. 
 
-- Cease and Decist order = FOund in the mayors office (torn)
+- Cease and Desist order = Found in the mayors office (torn)
+	Torn Cease and Desist Order sent to Orion with a signature confirmed to be from the 			late Mayor Hoppins
 
-- Medical reports = Found outside mayor's office
 </Text>
         </Document>
         <Document ID="BAD8CAD0-4FD2-48AC-B017-4BB99AE07A78">
-            <Title>Kale</Title>
+            <Title>Kale Hoppins</Title>
             <Synopsis>The youngest of the three siblings groupCalm, polite and loves coffee (addicted)
     Incredibly smart and oddly the most popular sibling of the bunch</Synopsis>
         </Document>
@@ -3767,12 +3772,13 @@ END</Text>
             <Title>Main Script</Title>
         </Document>
         <Document ID="EEC1EE04-4135-4EA4-8A31-2A7DFE6CB757">
-            <Title>Madam Hoppin</Title>
+            <Title>Madam Hoppins</Title>
             <Synopsis>Madam Hoppin 
     Wife of the mayor
     A seamstress with a passion for the arts but hated isolation of being in politics
     Mild mannered, polite, anxious</Synopsis>
         </Document>
+        <Document ID="F6362FC3-425B-44BD-B636-3487A4975D9D"/>
         <Document ID="FEF25580-74C4-465B-B365-3505AFBA3F8A">
             <Title>Chapter 3</Title>
             <Text>
