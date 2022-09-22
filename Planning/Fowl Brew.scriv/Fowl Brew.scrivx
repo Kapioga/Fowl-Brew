@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-18 20:48:07 -0400" ModID="0F7AAA53-E21B-43D2-8A86-AD48E30A3C7B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-21 19:33:20 -0400" ModID="0F7AAA53-E21B-43D2-8A86-AD48E30A3C7B">
     <Binder>
         <BinderItem UUID="6EDE4176-9248-4FAE-A168-69FF63FD4043" Type="Text" Created="2022-08-16 20:23:00 -0400" Modified="2022-08-17 09:41:00 -0400">
             <MetaData>
@@ -25,7 +25,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1703,0</TextSelection>
+                        <TextSelection>125,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="D54DDD44-D924-4456-BF0D-5D81099FD88F" Type="Text" Created="2022-08-17 09:42:13 -0400" Modified="2022-08-30 17:22:17 -0400">
@@ -517,13 +517,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-08-16 20:23:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1" Characters="3" Date="2022-09-18 20:48:07 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-09-21 19:33:20 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-09-18 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-09-21 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1</OtherWordCount>
-        <OtherCharCount>3</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
