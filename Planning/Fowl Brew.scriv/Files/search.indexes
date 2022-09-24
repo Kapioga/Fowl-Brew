@@ -8,6 +8,9 @@
     Paige is very nonchalant but loves Japser to death, theyve know n each other since college
     Tenant at Orion's condo and friends with Monty</Synopsis>
         </Document>
+        <Document ID="0CAD0D7D-0FBF-4CD3-B76A-2CF43BF4A69C">
+            <Title>CH4 Options</Title>
+        </Document>
         <Document ID="12AC732D-CE0E-4C94-AEC9-06A136168F5F">
             <Title>PLAYER OPTION 1</Title>
         </Document>
@@ -602,7 +605,7 @@ I dont think thats a good call here. We simply walked in and already got alot of
                                                                                                     
 
 Player Option 2
-- Pleasure to meet you Puddiing!
+- Pleasure to meet you Pudding!
 	Pudding: Hello.
 	Vermont: Well that was short, any other ideas?
 - How long have you worked here?
@@ -617,7 +620,14 @@ Player Option 2
 - I am sorry about Vermont	
 	Player:
  	I am sorry if my partner scared you. She means no harm.	
-	Pudding: ...</Text>
+	Pudding: ...
+
+                                                                                                    
+
+Player Options 3
+- Town Hall
+{Proceed to Chapter 4}
+- Cafe</Text>
         </Document>
         <Document ID="57A7943B-C894-40EB-A13E-7F729939846D"/>
         <Document ID="5AD4DC31-DA44-45A8-84EB-A91BE701E656">
@@ -4036,7 +4046,6 @@ But we must be quiet, the walls have ears.
 
 VERMONT
 ...
-Yes,
 
 PUDDING
 Of course, ma'am, one moment while I give you a haircut.
@@ -4048,27 +4057,40 @@ VERMONT
 [Pudding leans into their ears]
 
 PUDDING
-My livelihood is at stake speaking to you two. You must promise me to not get me involved if anything else happens?
+Vermont, I know this case is important but my livelihood is at stake speaking to you two.
+You must promise me to not get me involved if anything else happens. Especially around Phara…
+
+Vermont
+Phara? She is the receptionist you met earlier….and my boss
 
 [Vermont clears their throat]
 
+VermontWith that greeting earlier Im wondering if this place gets many customers wround here.
+
+Pudding
+We do get quite a few folks around here but mainly the Big People.
+
+Vermont
+Still feels strange to call people that.These “Big People”, of all of your clients, did anyone seem…out of the loop to you?
+
 PUDDING
-I’m not sure how useful this is, but I had a client come in recently looking suspiciously calm.
+I’m not sure how useful this is, but I had a client come in recently looking suspiciously anxious.
 
 VERMONT
 Calm?
 
 PUDDING
-I can’t describe it beyond that but when he came in, he requested a private pedicure.
+Its hard to explain but when he came in recently, he requested a private pedicure.
 
 VERMONT
-I see.
+That seems quite normal. What brought your attention if it was strange to you?
 
 PUDDING
-I’ve never seen him around town before, so I thought he was a tourist. We don’t get many of them around here so thought he was just nervous and needed something to calm himself. I took on the request and did his pedicure. He took off his shoes and it was covered in cement. 
+I’ve never seen him around town before, so I thought he was a tourist. We don’t get many of them around here so thought he was just nervous and needed something to calm himself. I took on the request and did his pedicure. 
+When he took off his shoes and it was covered in cement. 
 
 VERMONT
-Cement?
+Cement…
 
 PUDDING
 I am not sure if he was involved in a construction accident but I am assuming that was the reason he was so riled up about.
@@ -4076,18 +4098,21 @@ I am not sure if he was involved in a construction accident but I am assuming th
 VERMONT
 Do you have a name?
 
+[Phara shouts for pudding in the background] 
+
 PHARA
-Pudding! Hurry up with those two, wave got a few more clients coming in
+Pudding! Hurry up with those two, we have got a few more clients coming in!
 
 PUDDING
-Yes, Ma'am. Follow me up front.
+Yes, Ma'am…
+Follow me up front.
 
 [The two dried off and went to the front desk to pay while pudding ran the register]
 
 PUDDING
 That will be $40.
 
-[Pudding lifts a book onto the front desk and points at a name &quot;Orion&quot;]
+[Pudding lifts a book onto the front desk and points at a name &quot;Orion&quot;. The investigators made note of this new discovery.]
 
 VERMONT
 That was an excellent massage, ma'am. Have a good day.

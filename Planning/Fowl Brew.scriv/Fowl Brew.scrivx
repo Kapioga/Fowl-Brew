@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-24 08:26:35 -0400" ModID="5E7E29C6-9021-46C5-85AA-912FB99A22F6">
+<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-24 08:43:47 -0400" ModID="9D2F28CA-E8D0-4189-A6D4-BB6911065AF0">
     <Binder>
         <BinderItem UUID="6EDE4176-9248-4FAE-A168-69FF63FD4043" Type="Text" Created="2022-08-16 20:23:00 -0400" Modified="2022-08-17 09:41:00 -0400">
             <MetaData>
@@ -257,22 +257,22 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="FEF25580-74C4-465B-B365-3505AFBA3F8A" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-24 08:09:45 -0400">
+                        <BinderItem UUID="FEF25580-74C4-465B-B365-3505AFBA3F8A" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-24 08:43:08 -0400">
                             <Title>Chapter 3</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2312,0</TextSelection>
+                                <TextSelection>4560,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="509E0529-8D69-4BFD-B63B-6D00D4B83DF8" Type="Text" Created="2022-09-24 07:57:18 -0400" Modified="2022-09-24 08:26:27 -0400">
+                                <BinderItem UUID="509E0529-8D69-4BFD-B63B-6D00D4B83DF8" Type="Text" Created="2022-09-24 07:57:18 -0400" Modified="2022-09-24 08:40:00 -0400">
                                     <Title>Ch3 Options</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1186,0</TextSelection>
+                                        <TextSelection>1372,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -281,12 +281,23 @@
                             <Title>Chapter 4</Title>
                             <MetaData/>
                             <TextSettings>
-                                <TextSelection>14246,0</TextSelection>
+                                <TextSelection>269,0</TextSelection>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">2500</Target>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="D54DDD44-D924-4456-BF0D-5D81099FD88F">Story Breakdowns</Bookmark>
                             </Bookmarks>
+                            <Children>
+                                <BinderItem UUID="0CAD0D7D-0FBF-4CD3-B76A-2CF43BF4A69C" Type="Text" Created="2022-09-24 08:43:17 -0400" Modified="2022-09-24 08:43:32 -0400">
+                                    <Title>CH4 Options</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="65F89DD1-0B2D-43F2-AB4E-659896EEF1B9" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-01 20:24:57 -0400">
                             <Title>Chapter 5</Title>
@@ -528,13 +539,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-08-16 20:23:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="198" Characters="1228" Date="2022-09-24 08:26:35 -0400"/>
+        <PreviousSession Words="313" Characters="2009" Date="2022-09-24 08:43:47 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-09-24 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>80</OtherWordCount>
-        <OtherCharCount>609</OtherCharCount>
+        <OtherWordCount>195</OtherWordCount>
+        <OtherCharCount>1390</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
