@@ -589,6 +589,36 @@ CHAPTER 1 END
 
 </Text>
         </Document>
+        <Document ID="509E0529-8D69-4BFD-B63B-6D00D4B83DF8">
+            <Title>Ch3 Options</Title>
+            <Text>Player Option 1:
+- Ask her some question
+	Vermont:
+I dont think thats a good call here. We simply walked in and already got alot of hostility from this person. Any other suggestions?
+- Lets ask for their services! {Proceed to main story}
+- Lets just leave
+	Vermont: Giving up already? And here I thought there was more to you detective…. Ill take care of this {Proceed to main story}
+
+                                                                                                    
+
+Player Option 2
+- Pleasure to meet you Puddiing!
+	Pudding: Hello.
+	Vermont: Well that was short, any other ideas?
+- How long have you worked here?
+	Pudding: I have worked here all my life. I care for big people.	
+	Player: Big People?	
+	Pudding: Large folk with claws and sharp teeth.
+	Vermont: Ah, strange that she describes people like that...	
+- What do you do outside of work?
+	Pudding: I... do not really go anywhere. This job is all I am good at. 
+- Do you go out to meet other people?	
+	Pudding: I have tried but someone like me doesn’t get by that easily here. I was  adopted by my grandparents and grew up here. 	
+- I am sorry about Vermont	
+	Player:
+ 	I am sorry if my partner scared you. She means no harm.	
+	Pudding: ...</Text>
+        </Document>
         <Document ID="57A7943B-C894-40EB-A13E-7F729939846D"/>
         <Document ID="5AD4DC31-DA44-45A8-84EB-A91BE701E656">
             <Title>PLAYER OPTION 1</Title>
@@ -3930,30 +3960,35 @@ CHAPTER 3
 [Vermont and their assistant make their way to the salon just a few blocks from the cafe. There they greet with melodious chimes from the door and met the receptionist]
 
 VERMONT
-Hi, Inspector Vermont with the local Police. I would like to speak with you regarding intel on a regular at your salon.
+Hi, Inspector Vermont with the local Police. I would like to speak with you regarding-
 
 PHARA
-Oh no no no no. Not here.
+Oh NO you dont!
 I am tired of your police folk coming in here interrupting my business.
 
 VERMONT
-This town's really friendly... I am sorry ma'am, we'll be out of your way shortly, we just need to speak to someone for a moment.
+She seems friendly...
+ I am sorry ma'am, we'll be out of your way shortly, we just need to speak to someone for a moment.
 
 PHARA
 If ya aint here for business, then I suggest you leave.
 
 VERMONT
-Oh dear... we need to speak to a few people in the area, but the receptionist is not the friendliest. How do we do this?
+Oh my… 
+[Player],  we cant leave until we’ve questioned everyone in this building.
+Clues are already hard to come by so we might as well be thorough. What do you suggest we do here?
 
 [ Player Options]
 
 VERMONT
-Good idea! Ma'am, would it be possible to have a quick pedicure while were here. My colleague and I have been walking quite a bit and it would be nice to treat ourselves even for just a few minutes.
+Good idea! Ma'am, would it be possible to have a quick pedicure while were here. 
+My colleague and I have been walking around for quite a while and it would be nice to treat ourselves even for just a few minutes.
 
 PHARA
-Hmm... I do not trust ya, but my shop needs the customers...Fine. Sit over there and I will have Puddin' take care of yah. 
+Hmm... I do not trust ya, but my shop needs the customers...Fine. 
+Sit over there and I will have Puddin' take care of yah. 
 
-[ Vermont and player are escorted to their chairs to get their pedicure]
+[ Vermont and player are escorted to their chairs to get their pedicure. Small hedge hog appears before the detectives. ]
 
 PUDDING
 Welcome.
@@ -3971,45 +4006,14 @@ PUDDING
 ...
 
 VERMONT
-I take it that I am not welcomed here. [Player] could you help me out with this situation?	We need as much intel as possible, and I take it that they trust you more.
+Cant help but get the feeling m not welcomed in this town. [Player] could you help me out with this situation?
+We need as much intel as possible, and I take it that they trust you more.
 
-[PLAYER SECTION:
-(Option 1: Pleasure to meet you Pudding!
-
-Pudding
-Hello
-Option 2: How long have you worked here?
-	
-Pudding: 
-I have worked here all my life. I care for big people.	
-
-Player: 
-Big People?	
-
-Pudding:
- Large folk with claws and sharp teeth.
-	
-Vermont: 
-Ah, strange that she describes people like that...	
-
-Option 3: What do you do outside of work?
-	
-Pudding: 
-I... do not really go anywhere. This job is all I am good at. 
-
-Option 4: Do you go out to meet other people?	
-Pudding: 
-I have tried but someone like me doesn’t get by that easily here. I was adopted by my grandparents and grew up here. 	
-
-Option 5: I am sorry about Vermont	
-
-Player:
- I am sorry if my partner scared you. She means no harm.	
-
-Pudding: ...]
+[PLAYER SECTION 2]	
 
 VERMONT
-Ms. Pudding, allow me to introduce myself. My name is Vermont, terribly sorry if I spooked you earlier.
+Ms. Pudding, allow me to introduce myself. 
+My name is Vermont, terribly sorry if I spooked you earlier.
 
 PUDDING
 You are the inspector from across the street.
@@ -4018,16 +4022,21 @@ VERMONT
 Huh?
 
 PUDDING
-I have seen you walking around talking to everyone. You spoke to Cyrus, and she looked scared. I thought you were going to do something to them
+I have seen you walking around talking to everyone. You spoke to Cyrus, and she looked scared. 
+I thought you were going to do something to them
 
 VERMONT
-Oh, not at all. Apologies! [ She is gotta sharp eye on things]	So I’m assuming you know why we’re here?
+Oh, not at all. Apologies! 
+[ She is gotta sharp eye on things]	
+So I’m assuming you know why we’re here?
 
 PUDDING
-Yes. But we must be quiet, the walls have ears.
+Yes. 
+But we must be quiet, the walls have ears.
 
 VERMONT
 ...
+Yes,
 
 PUDDING
 Of course, ma'am, one moment while I give you a haircut.

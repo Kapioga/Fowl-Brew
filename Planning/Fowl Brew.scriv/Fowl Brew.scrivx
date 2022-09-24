@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-21 19:33:20 -0400" ModID="0F7AAA53-E21B-43D2-8A86-AD48E30A3C7B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-24 08:26:35 -0400" ModID="5E7E29C6-9021-46C5-85AA-912FB99A22F6">
     <Binder>
         <BinderItem UUID="6EDE4176-9248-4FAE-A168-69FF63FD4043" Type="Text" Created="2022-08-16 20:23:00 -0400" Modified="2022-08-17 09:41:00 -0400">
             <MetaData>
@@ -176,7 +176,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>148,0</TextSelection>
+                <TextSelection>227,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="EBBB9607-79E1-43F0-AFC0-CA5A831B456C" Type="Text" Created="2022-08-17 18:12:03 -0400" Modified="2022-08-17 18:12:20 -0400">
@@ -205,7 +205,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>541,0</TextSelection>
+                                <TextSelection>251,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="87C2CC10-6512-4886-942F-26BD4128A0BA" Type="Text" Created="2022-08-17 18:25:19 -0400" Modified="2022-08-17 19:39:56 -0400">
@@ -257,14 +257,25 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="FEF25580-74C4-465B-B365-3505AFBA3F8A" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-08 16:53:22 -0400">
+                        <BinderItem UUID="FEF25580-74C4-465B-B365-3505AFBA3F8A" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-24 08:09:45 -0400">
                             <Title>Chapter 3</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4093,0</TextSelection>
+                                <TextSelection>2312,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="509E0529-8D69-4BFD-B63B-6D00D4B83DF8" Type="Text" Created="2022-09-24 07:57:18 -0400" Modified="2022-09-24 08:26:27 -0400">
+                                    <Title>Ch3 Options</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1186,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="C61121BC-FD4A-4F93-8962-0056B496AE55" Type="Text" Created="2022-08-17 18:13:34 -0400" Modified="2022-09-01 20:20:15 -0400">
                             <Title>Chapter 4</Title>
@@ -517,13 +528,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-08-16 20:23:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-09-21 19:33:20 -0400"/>
+        <PreviousSession Words="198" Characters="1228" Date="2022-09-24 08:26:35 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-09-21 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-09-24 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>80</OtherWordCount>
+        <OtherCharCount>609</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
