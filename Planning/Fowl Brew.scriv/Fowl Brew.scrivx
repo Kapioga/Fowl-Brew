@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-90H68RS" Modified="2022-09-24 08:43:47 -0400" ModID="9D2F28CA-E8D0-4189-A6D4-BB6911065AF0">
+<ScrivenerProject Template="No" Version="2.0" Identifier="74FEA81C-902D-4BFF-9390-1A7DC70AE831" Creator="SCRWIN-3.1.2.0" Device="DESKTOP-90H68RS" Modified="2022-10-23 18:59:40 -0400" ModID="E47C040C-A961-4B10-9B2D-B4962DA7D3CF">
     <Binder>
         <BinderItem UUID="6EDE4176-9248-4FAE-A168-69FF63FD4043" Type="Text" Created="2022-08-16 20:23:00 -0400" Modified="2022-08-17 09:41:00 -0400">
             <MetaData>
@@ -161,6 +161,15 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem UUID="A142535A-4920-438B-814C-E2466C2F0960" Type="Text" Created="2022-10-23 18:43:11 -0400" Modified="2022-10-23 18:59:31 -0400">
+            <Title>Task To Complete</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>57,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
         <BinderItem UUID="B1A64F62-7D13-4519-A96E-606131A86436" Type="Text" Created="2022-08-26 13:13:00 -0400" Modified="2022-09-05 09:41:00 -0400">
             <Title>Items Received</Title>
             <MetaData>
@@ -272,7 +281,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1372,0</TextSelection>
+                                        <TextSelection>597,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -539,13 +548,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-08-16 20:23:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="313" Characters="2009" Date="2022-09-24 08:43:47 -0400"/>
+        <PreviousSession Words="28" Characters="194" Date="2022-10-23 18:59:40 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-09-24 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-10-23 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>195</OtherWordCount>
-        <OtherCharCount>1390</OtherCharCount>
+        <OtherWordCount>28</OtherWordCount>
+        <OtherCharCount>194</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
